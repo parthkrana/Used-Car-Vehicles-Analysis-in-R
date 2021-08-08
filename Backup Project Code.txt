@@ -1,0 +1,215 @@
+---
+title: "Final Project"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r data-load}
+library(tidyr)
+library(readr)
+library(tidyverse)  # data manipulation and visualization
+library(modelr)     # provides easy pipeline modeling functions
+library(broom)      # helps to tidy up model outputs
+library(PerformanceAnalytics)
+library(Hmisc)
+library(ggplot2)
+library(magrittr)
+
+main_dataset <- read_csv("Dataset_For_Wisconsin.csv")
+main_dataset %>% drop_na()
+```
+
+
+
+## Histogram and Summaries
+
+```{r pressure, echo=FALSE}
+
+# Getting the column price and assigning in the variable named price
+price <- main_dataset$price
+
+# Getting the column odometer and assigning in the variable named odometer
+odometer <- main_dataset$odometer
+
+# Getting the column year and assigning in the variable named year
+year <- main_dataset$year
+
+# Creating a Histogram for the Entire Data Set
+hist.data.frame(main_dataset)
+
+# Creating a Histogram and summary for the Price variable
+hist(price)
+summary(price)
+
+# Creating a Histogram and summary for the odometer variable
+hist(odometer)
+summary(odometer)
+
+# Creating a Histogram and summary for the year variable
+hist(year)
+summary(year)
+
+```
+
+
+# Influential Points for Price and Odometer
+```{r}
+# Fitting a linear model for price and odometer to variable mod 
+mod <- lm(price ~ odometer, data = main_dataset)
+
+# Assigning  cooks distance to the variable cooksd
+cooksd <- cooks.distance(mod)
+
+# Plot the Cook's Distance using the traditional 4/n criterion
+sample_size <- nrow(main_dataset)
+
+# plot cook's distance
+plot(cooksd, pch="*", cex=2, main="Influential Obs by Cooks distance")  
+
+# adding cutoff line
+abline(h = 4/sample_size, col="red") 
+
+# adding labels
+text(x=1:length(cooksd)+1, y=cooksd, labels=ifelse(cooksd>4/sample_size, names(cooksd),""), col="red")  
+
+```
+
+#Outliers for Price and Odometer
+```{r}
+# Removing Outliers
+# influential row numbers
+influential <- as.numeric(names(cooksd)[(cooksd > (4/sample_size))])
+
+updated_main_dataset <- main_dataset[-influential, ]
+
+plot1 <- ggplot(data = main_dataset, aes(x = price, y = odometer)) +
+        geom_point() + 
+        geom_smooth(method = lm) + ylim(0, 40000) + xlim(0,50000)
+        ggtitle("Before")
+
+plot2 <- ggplot(data = updated_main_dataset, aes(x = price, y = odometer)) +
+        geom_point() + 
+        geom_smooth(method = lm) + xlim(0,50000) + ylim(0, 40000) +
+        ggtitle("After")
+
+gridExtra::grid.arrange(plot1, plot2, ncol=2)
+```
+
+
+#Influential Points for Price and Year
+```{r}
+mod <- lm(price ~ year, data = main_dataset)
+cooksd <- cooks.distance(mod)
+
+# Plot the Cook's Distance using the traditional 4/n criterion
+sample_size <- nrow(main_dataset)
+
+# plotting cook's distance
+plot(cooksd, pch="*", cex=2, main="Influential Obs by Cooks distance")
+
+# adding cutoff line
+abline(h = 4/sample_size, col="red") 
+
+# adding labels
+text(x=1:length(cooksd)+1, y=cooksd, labels=ifelse(cooksd>4/sample_size, names(cooksd),""), col="red")
+```
+
+
+#Outliers for Price and Year
+```{r}
+# Removing Outliers
+# influential row numbers
+influential <- as.numeric(names(cooksd)[(cooksd > (4/sample_size))])
+
+updated_main_dataset <- main_dataset[-influential, ]
+
+plot3 <- ggplot(data = main_dataset, aes(x = year, y = price)) +
+        geom_point() + 
+        geom_smooth(method = lm) + ylim(0, 60000) +
+        ggtitle("Before")
+
+plot4 <- ggplot(data = updated_main_dataset, aes(x = year, y = price)) +
+        geom_point() + 
+        geom_smooth(method = lm) + ylim(0, 60000) +
+        ggtitle("After")
+
+gridExtra::grid.arrange(plot3, plot4, ncol=2)
+```
+
+
+# Train and Test for Models (price {model 1}, odometer{model2})
+```{r test-train-split}
+
+# Setting seed to recreate the same results
+set.seed(123)
+
+# Splitting 60% of dataset and assigning to variable sample
+sample <- sample(c(TRUE, FALSE), nrow(updated_main_dataset), replace = T, prob = c(0.6,0.4))
+
+# Assigning sample variable to variable train_dataset 
+train_dataset <- updated_main_dataset[sample, ]
+
+# Assigning left over values of sample variable to variable train_dataset 
+test_dataset <- updated_main_dataset[!sample, ]
+
+```
+
+# Model Building for Model 1
+```{r regression-model}
+# Generating a model which has price, year, and odometer. Assigning it to Model1.
+model1 <- lm(price ~ year + odometer , data = updated_main_dataset) 
+
+summary(model1) # the output is a list
+#tidy(model1)
+
+# Assessing Coefficients
+confint(model1)
+
+# Assessing Accuracy
+sigma(model1)
+
+# Generating all the plots for Model 1
+plot(model1)
+
+```
+
+
+# Model Building for Model 2
+```{r regression-model2}
+
+# Creating model 2 with price and odometer.
+model2 <- lm(price ~ odometer , data = updated_main_dataset)
+
+# Generating a summary for Model 2
+summary(model2)
+
+# Generating the R^2 value for Model 2
+sigma(model2)
+
+# Generating all the plots for Model 1
+plot(model2)
+
+```
+
+
+
+# Predictions for Model 1
+```{r predictions, message=FALSE}
+#Creating a new data frame to let the model predict price of
+newdata <- data.frame("price"=c(15000, 12100, 9000), "odometer"=c(20000, 59000, 130000), "year"=c(2014,2016,2005))
+
+# Letting Model1 predict price for the newdata data frame
+predict(model1,newdata)
+```
+
+
+# Predictions for Model 2
+```{r predictions1, message=FALSE}
+
+# Letting Model2 predict price for the newdata data frame
+predict(model2,newdata)
+```
+

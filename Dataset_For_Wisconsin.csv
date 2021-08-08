@@ -1,0 +1,1403 @@
+price,year,manufacturer,model,condition,cylinders,fuel,odometer,title_status,transmission,drive,size,type,paint_color,state
+1000,2005,ford,explorer,good,6,gas,185000,clean,manual,4wd,mid-size,SUV,brown,wi
+1000,2008,chevrolet,cobalt,fair,4,gas,170000,clean,automatic,fwd,full-size,sedan,blue,wi
+1100,2001,saturn,sc2,fair,4,gas,241913,clean,automatic,fwd,compact,coupe,yellow,wi
+1100,2004,pontiac,grand prix,fair,6,gas,142000,clean,automatic,fwd,full-size,sedan,silver,wi
+1100,1999,jeep,cherokee,fair,6,gas,211000,clean,automatic,4wd,full-size,truck,green,wi
+1100,2002,toyota,sienna le,good,6,gas,265000,clean,automatic,fwd,mid-size,mini-van,blue,wi
+1150,2005,chevrolet,cavalier ls,good,6,gas,170000,clean,automatic,fwd,mid-size,coupe,silver,wi
+1150,2003,jeep,liberty,fair,6,gas,190000,clean,automatic,4wd,mid-size,SUV,green,wi
+1200,2004,chevrolet,impala,good,6,gas,205000,clean,automatic,fwd,full-size,sedan,silver,wi
+1200,1997,dodge,dakota,fair,8,gas,155000,clean,automatic,4wd,mid-size,pickup,red,wi
+1250,1999,honda,civic ex,good,4,gas,250717,clean,manual,fwd,compact,coupe,silver,wi
+1350,1997,chevrolet,lumina,good,4,gas,70000,clean,automatic,fwd,full-size,sedan,green,wi
+1500,2006,buick,lacrosse,good,6,gas,214000,clean,automatic,fwd,full-size,sedan,white,wi
+1500,2007,kia,spectra,good,6,gas,150000,clean,automatic,fwd,compact,sedan,silver,wi
+1500,2002,audi,a6,good,6,gas,194500,clean,automatic,4wd,mid-size,sedan,silver,wi
+1500,2003,pontiac,grand am,good,6,gas,183000,clean,automatic,fwd,mid-size,sedan,silver,wi
+1500,2001,dodge,grand caravan sport,good,6,gas,160,clean,automatic,fwd,mid-size,mini-van,red,wi
+1500,2001,dodge,grand caravan sport,good,6,gas,160,clean,automatic,fwd,mid-size,mini-van,red,wi
+1500,2001,dodge,grand caravan,good,6,gas,160000,clean,automatic,fwd,mid-size,mini-van,red,wi
+1500,1999,toyota,sienna ce,fair,6,gas,190000,clean,automatic,fwd,full-size,mini-van,green,wi
+1500,2003,dodge,grand caravan sport,fair,6,gas,150000,clean,automatic,fwd,full-size,mini-van,blue,wi
+1500,2001,dodge,dakota 4x4,fair,6,gas,39900,clean,manual,4wd,mid-size,truck,blue,wi
+1500,1997,chevrolet,1500,fair,6,gas,199000,clean,automatic,4wd,full-size,truck,black,wi
+1595,2000,toyota,celica,good,4,gas,260000,clean,automatic,fwd,compact,hatchback,black,wi
+1600,2002,honda,odyssey ex,excellent,6,gas,210000,clean,automatic,fwd,mid-size,mini-van,green,wi
+1600,2005,dodge,caravan,good,4,gas,162863,clean,automatic,fwd,full-size,mini-van,blue,wi
+1700,1998,chevrolet,tahoe lt,good,8,gas,197500,clean,automatic,rwd,full-size,SUV,white,wi
+1700,2005,hyundai,elantra,fair,4,gas,190000,clean,manual,fwd,mid-size,sedan,silver,wi
+1700,2006,ford,freestar sel,good,6,gas,130000,clean,automatic,fwd,mid-size,mini-van,red,wi
+1700,2006,ford,freestar sel,good,6,gas,130000,clean,automatic,fwd,mid-size,mini-van,red,wi
+1700,2002,chevrolet,impala,good,6,gas,170000,clean,automatic,fwd,full-size,sedan,black,wi
+1750,2001,pontiac,montana,good,6,gas,136000,clean,automatic,fwd,full-size,van,red,wi
+1750,2005,ford,ranger,good,6,gas,253000,clean,automatic,rwd,mid-size,pickup,red,wi
+1750,2004,chrysler,pt cruiser limited,good,4,gas,156267,clean,automatic,fwd,mid-size,hatchback,purple,wi
+1800,2006,toyota,scion,good,4,gas,160000,clean,automatic,fwd,full-size,sedan,white,wi
+1800,2007,saturn,ion 2,good,4,gas,196829,clean,automatic,fwd,compact,sedan,silver,wi
+1800,2006,ford,freestar sel,good,6,gas,130,clean,automatic,fwd,mid-size,mini-van,red,wi
+1800,2006,ford,freestar sel,good,6,gas,130000,clean,automatic,fwd,mid-size,mini-van,red,wi
+1800,2003,chevrolet,venture,excellent,6,gas,190000,clean,automatic,fwd,full-size,mini-van,brown,wi
+1800,2003,gmc,envoy 4x4,good,6,gas,244000,clean,automatic,4wd,mid-size,SUV,blue,wi
+1800,2005,chrysler,town & country,good,6,gas,158000,clean,automatic,fwd,full-size,mini-van,black,wi
+1900,2003,buick,rendezvous,fair,6,gas,160000,clean,automatic,fwd,full-size,SUV,white,wi
+1900,2004,chevrolet,trailblazer,good,6,gas,230000,clean,automatic,4wd,mid-size,SUV,red,wi
+1900,2001,toyota,celica gt,good,4,gas,211688,clean,manual,fwd,compact,hatchback,red,wi
+1950,2003,pontiac,vibe,good,4,gas,177083,clean,manual,fwd,compact,hatchback,red,wi
+1975,1997,saturn,sl.,good,4,gas,116000,clean,automatic,fwd,compact,sedan,brown,wi
+1995,2006,mazda,6 v6,good,6,gas,72000,clean,manual,4wd,full-size,sedan,grey,wi
+1995,2000,dodge,dakota slt quad cab,good,8,gas,191000,clean,automatic,4wd,full-size,pickup,black,wi
+1999,2000,toyota,camry,good,4,gas,175000,clean,automatic,fwd,mid-size,sedan,silver,wi
+2000,2004,saturn,l300,good,6,gas,190000,clean,automatic,fwd,mid-size,sedan,silver,wi
+2000,2003,honda,accord ex (4 door),fair,6,gas,197000,clean,automatic,fwd,full-size,sedan,grey,wi
+2000,2006,nissan,altima 2.5 s,good,4,gas,203000,clean,automatic,fwd,full-size,sedan,grey,wi
+2000,2002,jeep,grand cherokee laredo,fair,6,gas,165000,clean,automatic,4wd,mid-size,SUV,blue,wi
+2000,2007,pontiac,vibe,fair,4,gas,230000,clean,automatic,fwd,compact,hatchback,blue,wi
+2000,1998,acura,cl,excellent,4,gas,193000,clean,manual,fwd,compact,coupe,black,wi
+2000,2009,hyundai,sonata,good,4,gas,215208,clean,automatic,fwd,mid-size,sedan,black,wi
+2100,1998,gmc,jimmy,good,6,gas,145100,clean,automatic,4wd,mid-size,SUV,white,wi
+2100,2008,ford,crown victoria police,good,8,gas,135000,clean,automatic,rwd,full-size,sedan,blue,wi
+2199,2005,chevrolet,impala lt,excellent,6,gas,215000,clean,automatic,rwd,full-size,sedan,silver,wi
+2200,2002,toyota,rav4,good,4,gas,175429,clean,automatic,4wd,mid-size,SUV,silver,wi
+2200,2006,chrysler,pt cruiser,good,4,gas,108850,clean,automatic,fwd,mid-size,other,silver,wi
+2200,1999,honda,accord lx,good,4,gas,86424,clean,automatic,fwd,compact,sedan,silver,wi
+2200,2007,ford,crown victoria interceptor,good,8,gas,125500,clean,automatic,rwd,full-size,sedan,black,wi
+2250,2005,mitsubishi,endeavor ls,good,6,gas,194000,clean,automatic,4wd,mid-size,SUV,silver,wi
+2250,1998,pontiac,bonneville sse,excellent,8,gas,134000,clean,automatic,rwd,full-size,sedan,green,wi
+2250,1999,volkswagen,golf,good,4,gas,166000,clean,manual,fwd,compact,hatchback,black,wi
+2290,1999,bmw,528i,excellent,6,gas,196000,clean,automatic,rwd,mid-size,sedan,blue,wi
+2295,2004,saturn,ion 1,good,4,gas,175636,clean,automatic,fwd,compact,sedan,silver,wi
+2300,2003,ford,explorer 4x4,fair,6,gas,126000,clean,automatic,4wd,full-size,SUV,red,wi
+2300,2006,nissan,sentra,good,4,gas,149000,clean,automatic,fwd,compact,sedan,green,wi
+2300,2006,kia,sedona,good,6,gas,203000,clean,automatic,fwd,mid-size,mini-van,blue,wi
+2300,2008,ford,taurus,fair,6,gas,208200,clean,automatic,fwd,full-size,sedan,black,wi
+2400,2008,hyundai,accent,good,4,gas,167720,clean,manual,fwd,compact,hatchback,yellow,wi
+2400,2005,toyota,sienna xle,fair,6,gas,276000,clean,automatic,fwd,full-size,mini-van,brown,wi
+2400,2005,ford,explorer,good,6,gas,157000,clean,automatic,fwd,mid-size,SUV,brown,wi
+2500,2007,chevrolet,express 3500 passenger,fair,8,gas,194500,clean,automatic,rwd,full-size,van,white,wi
+2500,2009,pontiac,g6,good,6,gas,120000,clean,automatic,fwd,mid-size,sedan,white,wi
+2500,2004,gmc,canyon extended cab sle,fair,5,gas,198660,clean,automatic,rwd,mid-size,pickup,silver,wi
+2500,2002,buick,lesabre,good,6,gas,110000,clean,automatic,fwd,full-size,sedan,silver,wi
+2500,2004,gmc,canyon extended cab sle,fair,5,gas,198660,clean,automatic,rwd,mid-size,pickup,silver,wi
+2500,2007,chrysler,town & country,good,6,gas,150000,clean,automatic,fwd,mid-size,mini-van,red,wi
+2500,2009,dodge,charger,fair,6,gas,276000,clean,automatic,fwd,mid-size,sedan,red,wi
+2500,1996,dodge,3500,excellent,6,gas,220000,clean,manual,rwd,full-size,truck,red,wi
+2500,2004,chevrolet,impala,good,4,gas,145400,clean,automatic,fwd,mid-size,sedan,grey,wi
+2500,1999,chevrolet,silverado 1500,good,8,gas,204000,clean,automatic,4wd,full-size,pickup,green,wi
+2500,2001,chevrolet,blazer zr2,like new,6,gas,160000,clean,automatic,4wd,mid-size,SUV,black,wi
+2500,2005,dodge,caravan,good,6,gas,167000,clean,automatic,fwd,full-size,mini-van,black,wi
+2500,2006,honda,accord,good,4,gas,268144,clean,automatic,fwd,mid-size,sedan,black,wi
+2550,2008,toyota,yaris,good,4,gas,114100,clean,automatic,fwd,compact,hatchback,blue,wi
+2675,2002,ford,f150 xl,excellent,6,gas,183098,clean,manual,rwd,full-size,pickup,brown,wi
+2675,2002,chrysler,sebrimg lxi,excellent,6,gas,161098,clean,automatic,fwd,mid-size,sedan,blue,wi
+2690,2007,dodge,caliber sxt,excellent,4,gas,144578,clean,automatic,fwd,mid-size,wagon,red,wi
+2700,2005,chevrolet,trailblazer,good,4,gas,160000,clean,automatic,4wd,mid-size,sedan,silver,wi
+2700,2008,dodge,grand caravan sxt,good,6,gas,191432,clean,automatic,fwd,compact,van,silver,wi
+2700,2005,nissan,altima,good,4,gas,191000,clean,automatic,fwd,mid-size,sedan,grey,wi
+2750,2003,volkswagen,passat,fair,4,gas,19300,clean,automatic,fwd,mid-size,wagon,silver,wi
+2790,2004,kia,sorento lx,excellent,6,gas,157400,clean,automatic,4wd,full-size,SUV,silver,wi
+2800,2006,honda,civic ex,good,4,gas,169160,clean,automatic,fwd,mid-size,sedan,red,wi
+2800,2007,honda,fit,good,4,diesel,18900,clean,automatic,fwd,compact,hatchback,orange,wi
+2800,2007,honda,fit,good,4,gas,189000,clean,automatic,fwd,compact,hatchback,orange,wi
+2800,2004,honda,civic ex,excellent,4,gas,160265,clean,automatic,fwd,compact,sedan,grey,wi
+2800,2011,dodge,grand caravan,good,6,gas,255088,clean,automatic,fwd,full-size,van,grey,wi
+2800,2003,chrysler,town & country,good,4,gas,225000,clean,automatic,fwd,mid-size,mini-van,green,wi
+2800,2007,dodge,durango,good,8,gas,167000,clean,automatic,4wd,full-size,truck,blue,wi
+2800,2003,dodge,caravan,like new,6,gas,190000,clean,automatic,fwd,mid-size,mini-van,blue,wi
+2850,2006,chevrolet,trailblazer ls 4x4,good,6,gas,135000,clean,automatic,4wd,mid-size,SUV,grey,wi
+2890,2007,saturn,aura,excellent,6,gas,155200,clean,automatic,fwd,mid-size,sedan,grey,wi
+2900,1997,chevrolet,c30,fair,8,gas,210000,clean,automatic,rwd,full-size,truck,white,wi
+2900,2007,chevrolet,cobalt lt,good,6,gas,112266,clean,automatic,fwd,compact,sedan,white,wi
+2900,2007,chevrolet,cobalt lt,good,6,gas,112266,clean,automatic,fwd,compact,sedan,white,wi
+2900,2001,honda,cr-v sport,good,4,gas,182000,clean,automatic,4wd,sub-compact,SUV,silver,wi
+2900,2007,chevrolet,impala lt,good,6,gas,170000,clean,automatic,fwd,mid-size,sedan,silver,wi
+2900,2004,jeep,grand cherokee,excellent,8,gas,137328,clean,automatic,4wd,mid-size,SUV,brown,wi
+2900,2005,jeep,grand cherokee,like new,6,gas,214100,clean,automatic,4wd,full-size,SUV,blue,wi
+2900,2005,jeep,grand cherokee,like new,6,gas,214100,clean,automatic,4wd,full-size,SUV,blue,wi
+2900,2008,pontiac,g6 2008,excellent,6,gas,155068,clean,other,fwd,mid-size,sedan,black,wi
+2950,2006,chevrolet,hhr lt,good,4,gas,190000,clean,automatic,fwd,compact,hatchback,blue,wi
+2975,2002,mitsubishi,eclipse,excellent,4,gas,122098,clean,automatic,fwd,mid-size,hatchback,red,wi
+2995,2000,mitsubishi,eclipse,good,4,gas,216000,clean,automatic,fwd,compact,coupe,silver,wi
+2995,2003,ford,taurus se,fair,6,gas,123431,clean,automatic,fwd,mid-size,sedan,silver,wi
+2999,2003,honda,odyssey lx,good,6,gas,268940,clean,automatic,fwd,full-size,mini-van,grey,wi
+3000,2007,mazda,6i touring,good,4,gas,240000,clean,automatic,fwd,mid-size,sedan,silver,wi
+3000,2002,ram,1500,good,8,gas,176500,clean,automatic,4wd,full-size,truck,red,wi
+3000,2004,hyundai,elantra,good,4,gas,149396,clean,automatic,fwd,compact,sedan,red,wi
+3000,2009,volkswagen,jetta,good,5,gas,152600,clean,automatic,fwd,compact,wagon,red,wi
+3000,2005,pontiac,grand prix,good,6,gas,217000,clean,automatic,fwd,mid-size,sedan,grey,wi
+3000,2006,chevrolet,impala,good,6,gas,171297,clean,automatic,fwd,full-size,sedan,grey,wi
+3000,2005,honda,accord hybrid,good,6,hybrid,201300,clean,automatic,fwd,mid-size,sedan,grey,wi
+3100,2002,jeep,liberty limited 4x4,good,6,gas,149000,clean,automatic,4wd,mid-size,SUV,white,wi
+3100,2003,toyota,camry,good,6,gas,203000,clean,automatic,fwd,full-size,sedan,grey,wi
+3150,2010,hyundai,elantra,excellent,4,gas,160430,clean,automatic,fwd,compact,sedan,red,wi
+3200,2010,ford,explorer xlt,good,6,gas,180408,clean,automatic,4wd,full-size,SUV,white,wi
+3200,2006,pontiac,grand prix,good,6,gas,204693,clean,automatic,fwd,mid-size,sedan,white,wi
+3200,2003,ford,f-150,fair,8,gas,185516,clean,automatic,4wd,full-size,truck,white,wi
+3200,1993,toyota,celica gt,like new,4,gas,154145,clean,automatic,fwd,compact,convertible,red,wi
+3200,2008,chevrolet,equinox,excellent,6,gas,145000,clean,automatic,4wd,mid-size,SUV,grey,wi
+3200,2006,ford,taurus sel,excellent,6,gas,168422,clean,automatic,fwd,full-size,sedan,grey,wi
+3200,2006,ford,taurus sel,excellent,6,gas,168422,clean,automatic,fwd,full-size,sedan,grey,wi
+3200,2003,gmc,envoy slt,good,6,gas,137484,clean,automatic,4wd,mid-size,SUV,custom,wi
+3200,2006,ford,explorer eddie bauer 4x4,fair,6,gas,197500,clean,automatic,4wd,full-size,SUV,brown,wi
+3200,2008,audi,a6,good,6,gas,203700,clean,automatic,fwd,full-size,sedan,black,wi
+3290,2009,pontiac,g6,excellent,4,gas,145400,clean,automatic,fwd,mid-size,sedan,grey,wi
+3295,2004,honda,civic,good,4,gas,179545,clean,manual,fwd,compact,coupe,silver,wi
+3300,2000,toyota,camry le,good,4,gas,182000,clean,automatic,fwd,mid-size,sedan,white,wi
+3300,2004,ford,escape,good,6,gas,202000,clean,automatic,fwd,mid-size,SUV,grey,wi
+3300,1994,ford,ranger,good,6,gas,112800,clean,automatic,rwd,mid-size,truck,green,wi
+3300,2005,jeep,liberty,good,6,gas,185237,lien,automatic,4wd,mid-size,offroad,blue,wi
+3400,2006,nissan,sentra,excellent,4,gas,95000,clean,manual,fwd,mid-size,sedan,silver,wi
+3400,2008,chevrolet,impala,good,6,gas,170000,clean,automatic,fwd,full-size,sedan,black,wi
+3485,2006,toyota,sienna,good,6,gas,225724,clean,automatic,fwd,full-size,mini-van,brown,wi
+3490,1999,ram,1500,good,8,gas,178000,clean,automatic,rwd,full-size,truck,red,wi
+3490,2009,hyundai,sonata gls,excellent,4,gas,162600,clean,automatic,fwd,mid-size,sedan,grey,wi
+3495,2004,saturn,ion 2,excellent,4,gas,132204,clean,automatic,fwd,compact,sedan,silver,wi
+3495,2008,dodge,avenger,good,6,gas,176000,clean,automatic,fwd,mid-size,sedan,grey,wi
+3495,2003,toyota,camry le,good,4,gas,234456,rebuilt,automatic,fwd,full-size,sedan,green,wi
+3495,2007,jeep,liberty 4x4,excellent,6,gas,172000,clean,automatic,4wd,mid-size,SUV,black,wi
+3500,2004,ford,f150,excellent,8,gas,130000,clean,automatic,rwd,full-size,pickup,white,wi
+3500,2002,nissan,pathfinder,excellent,6,gas,151000,clean,automatic,4wd,full-size,SUV,silver,wi
+3500,2003,acura,tl,excellent,6,gas,111900,clean,automatic,fwd,full-size,sedan,silver,wi
+3500,2008,volkswagen,passat,excellent,4,gas,160500,clean,automatic,fwd,mid-size,sedan,silver,wi
+3500,2012,nissan,versa 1.8 s,good,4,gas,217365,clean,automatic,fwd,compact,hatchback,silver,wi
+3500,2007,mazda,6,fair,4,gas,142000,clean,manual,4wd,mid-size,sedan,silver,wi
+3500,2009,nissan,versa,excellent,4,gas,146000,clean,automatic,fwd,mid-size,hatchback,red,wi
+3500,2009,nissan,rogue,like new,4,gas,183000,clean,automatic,4wd,mid-size,SUV,red,wi
+3500,2006,ford,expedition,good,8,gas,235000,clean,automatic,4wd,full-size,SUV,red,wi
+3500,2001,ford,f150 supercrew cab,excellent,8,gas,240000,clean,automatic,4wd,full-size,truck,red,wi
+3500,2005,nissan,altima,good,6,gas,109000,clean,automatic,fwd,mid-size,sedan,red,wi
+3500,2008,toyota,solara,good,6,gas,200000,clean,automatic,fwd,full-size,coupe,grey,wi
+3500,2008,volvo,s60 2.5t,excellent,4,gas,205800,clean,other,fwd,mid-size,sedan,green,wi
+3500,1996,toyota,tacoma sr5,good,6,gas,220000,clean,manual,4wd,mid-size,pickup,custom,wi
+3500,1995,jaguar,xj xj6 sedan 4d,good,6,gas,207300,clean,automatic,rwd,full-size,sedan,brown,wi
+3500,2009,chevrolet,impala lt,good,6,gas,172098,clean,automatic,fwd,mid-size,sedan,brown,wi
+3500,2000,chrysler,concorde lxi,excellent,8,gas,104000,clean,automatic,rwd,full-size,sedan,brown,wi
+3500,2000,chrysler,concorde,excellent,8,gas,104000,clean,automatic,rwd,full-size,sedan,brown,wi
+3500,2008,ford,fusion sel,good,6,gas,150000,clean,automatic,fwd,mid-size,sedan,blue,wi
+3500,2005,toyota,rav4,good,4,gas,136000,clean,manual,fwd,full-size,SUV,black,wi
+3500,2007,ford,escape,like new,6,gas,140,clean,automatic,4wd,full-size,SUV,black,wi
+3500,2004,pontiac,grand prix gtp,excellent,6,gas,147000,clean,automatic,fwd,mid-size,sedan,black,wi
+3500,2001,mercedes-benz,benz c240,good,6,gas,106,clean,manual,rwd,mid-size,sedan,black,wi
+3595,2003,lexus,es300,excellent,6,gas,219608,clean,automatic,fwd,mid-size,sedan,white,wi
+3600,2007,ford,edge,good,6,gas,167330,clean,automatic,fwd,mid-size,mini-van,red,wi
+3600,2007,volkswagen,jetta,fair,5,gas,132700,clean,automatic,fwd,compact,sedan,blue,wi
+3675,1999,dodge,durango slt_rwd,excellent,8,gas,207098,clean,automatic,rwd,mid-size,SUV,white,wi
+3690,2004,toyota,corolla,excellent,4,gas,213744,clean,automatic,fwd,mid-size,sedan,black,wi
+3690,2004,toyota,corolla,excellent,4,gas,213744,clean,automatic,fwd,mid-size,sedan,black,wi
+3695,2004,honda,civic,good,4,gas,171,clean,automatic,fwd,compact,sedan,black,wi
+3700,2000,subaru,outback,excellent,4,gas,145000,clean,automatic,4wd,mid-size,wagon,white,wi
+3700,2006,chevrolet,malibu,good,6,gas,102000,clean,automatic,fwd,mid-size,sedan,green,wi
+3700,2008,honda,odyssey ex-l,excellent,6,gas,175000,clean,other,fwd,full-size,van,blue,wi
+3700,2008,toyota,sienna,good,6,gas,226500,clean,automatic,fwd,full-size,mini-van,black,wi
+3750,2006,ram,1500 slt,good,8,gas,177309,clean,automatic,rwd,full-size,pickup,white,wi
+3750,2006,ram,1500 slt,good,8,gas,177309,clean,automatic,rwd,full-size,pickup,white,wi
+3750,2003,jeep,liberty,good,6,gas,111000,clean,automatic,4wd,compact,SUV,red,wi
+3750,2006,toyota,prius,good,4,gas,191500,clean,automatic,fwd,compact,hatchback,grey,wi
+3790,2007,ford,five hundred sel,like new,6,gas,107400,clean,automatic,fwd,mid-size,sedan,blue,wi
+3800,2000,chevrolet,express 3500 cargo van,good,8,gas,173000,clean,automatic,rwd,full-size,van,white,wi
+3800,2004,toyota,camry,like new,4,gas,158000,clean,automatic,fwd,full-size,sedan,silver,wi
+3800,2004,toyota,camry,like new,4,gas,158000,clean,automatic,fwd,full-size,sedan,silver,wi
+3800,2005,chrysler,pt cruiser,good,4,gas,66100,clean,automatic,fwd,compact,hatchback,silver,wi
+3800,2008,nissan,altima 2.5 sl,good,4,gas,165509,clean,automatic,fwd,mid-size,sedan,grey,wi
+3800,2012,chevrolet,cruze ls,good,4,gas,170000,clean,automatic,fwd,mid-size,sedan,blue,wi
+3900,2011,mitsubishi,galant,good,4,gas,146800,clean,other,fwd,mid-size,sedan,white,wi
+3900,2008,hyundai,santa fe,good,6,gas,179000,clean,automatic,fwd,full-size,SUV,silver,wi
+3900,2005,honda,odyssey,good,8,gas,215000,clean,automatic,fwd,mid-size,mini-van,silver,wi
+3900,2010,kia,forte koup,good,4,gas,133785,clean,automatic,fwd,mid-size,coupe,red,wi
+3900,2004,chevrolet,silverado,good,8,gas,160000,clean,automatic,4wd,full-size,pickup,custom,wi
+3900,2006,honda,pilot ex-l,good,6,gas,255000,clean,automatic,4wd,full-size,SUV,blue,wi
+3900,2002,gmc,yukon xl 2500,good,8,gas,179000,clean,automatic,4wd,full-size,SUV,black,wi
+3908,2010,ford,focus,good,4,gas,145142,rebuilt,automatic,fwd,compact,sedan,black,wi
+3908,2010,ford,focus,good,4,gas,145142,rebuilt,automatic,fwd,compact,sedan,black,wi
+3915,2010,ford,focus,good,4,gas,145142,rebuilt,automatic,fwd,compact,sedan,black,wi
+3950,2000,chevrolet,silverado 2500 hd,fair,8,gas,261058,clean,automatic,4wd,full-size,truck,blue,wi
+3950,2008,honda,odyssey exl,excellent,6,gas,169000,clean,automatic,fwd,full-size,mini-van,black,wi
+3975,2008,chrysler,sebring,excellent,6,gas,133329,clean,automatic,fwd,mid-size,convertible,silver,wi
+3988,2008,buick,lucerne cxl,excellent,6,gas,160000,clean,automatic,fwd,full-size,sedan,silver,wi
+3990,2007,volvo,s60,excellent,4,gas,133544,clean,automatic,fwd,mid-size,sedan,grey,wi
+3990,2007,volvo,s60,excellent,4,gas,133544,clean,automatic,fwd,mid-size,sedan,grey,wi
+3990,2007,pontiac,grand prix,excellent,6,gas,122280,clean,automatic,fwd,full-size,sedan,blue,wi
+3995,2006,dodge,caravan sxt,excellent,6,gas,127004,clean,automatic,fwd,mid-size,mini-van,silver,wi
+3995,2000,pontiac,grand am gt,excellent,4,gas,85769,clean,automatic,fwd,compact,coupe,silver,wi
+3995,2011,dodge,grand caravan express,good,6,gas,92901,salvage,automatic,fwd,full-size,mini-van,silver,wi
+3995,2002,chevrolet,prizm,excellent,4,gas,103327,clean,automatic,fwd,compact,sedan,red,wi
+3995,2009,ford,focus ses,good,4,gas,195088,clean,automatic,fwd,compact,sedan,red,wi
+3995,2008,toyota,matrix,excellent,4,gas,161305,clean,manual,fwd,compact,hatchback,blue,wi
+3995,2007,honda,odyssey exl,good,6,gas,171000,clean,automatic,fwd,mid-size,mini-van,blue,wi
+4000,2008,dodge,grand caravan sxt,good,6,gas,123000,clean,automatic,fwd,full-size,mini-van,orange,wi
+4000,2006,chevrolet,trailblazer,good,6,gas,215271,clean,automatic,4wd,mid-size,SUV,grey,wi
+4000,2011,ford,taurus,fair,6,gas,205000,clean,automatic,fwd,full-size,sedan,custom,wi
+4000,2000,jeep,grand cherokee loredo,excellent,6,gas,184000,clean,automatic,4wd,full-size,SUV,brown,wi
+4000,2006,honda,odyssey,good,6,gas,167919,clean,automatic,fwd,full-size,mini-van,blue,wi
+4000,2006,honda,odyssey,good,6,gas,167919,clean,automatic,fwd,full-size,mini-van,blue,wi
+4000,2009,hyundai,sonata,good,4,gas,207000,clean,automatic,fwd,full-size,sedan,blue,wi
+4000,2005,toyota,camry xle v6,good,6,gas,220000,clean,automatic,fwd,mid-size,sedan,black,wi
+4000,2007,buick,lacrosse,good,6,gas,123307,clean,automatic,4wd,full-size,other,black,wi
+4000,1997,jaguar,xk8,fair,8,gas,130000,clean,automatic,rwd,compact,convertible,black,wi
+4000,1997,jaguar,xk8,fair,8,gas,130000,clean,automatic,rwd,compact,convertible,black,wi
+4200,2001,chevrolet,express 2500,excellent,6,gas,57699,clean,automatic,fwd,compact,van,white,wi
+4200,2007,nissan,murado le,good,6,gas,123862,clean,automatic,4wd,compact,SUV,white,wi
+4200,2003,acura,mdx,good,6,gas,139000,clean,automatic,4wd,full-size,SUV,red,wi
+4200,2007,honda,civic lx,good,4,gas,187000,clean,automatic,fwd,compact,coupe,blue,wi
+4200,2007,mercury,montego premier,good,6,gas,119375,clean,automatic,4wd,mid-size,sedan,black,wi
+4200,2012,ford,fusion se,good,4,gas,175000,clean,automatic,fwd,mid-size,sedan,black,wi
+4200,2012,ford,fiesta se,excellent,4,gas,120000,clean,automatic,fwd,mid-size,sedan,black,wi
+4250,2002,chevrolet,express 3500,good,8,gas,149000,clean,automatic,rwd,full-size,van,white,wi
+4250,2006,ram,1500 st,good,6,gas,156557,clean,automatic,rwd,full-size,truck,red,wi
+4250,2010,ford,escape,fair,6,gas,165500,clean,automatic,4wd,mid-size,SUV,grey,wi
+4250,2004,chevrolet,trailblazer ls,excellent,6,gas,152000,clean,automatic,4wd,mid-size,SUV,blue,wi
+4257,2011,chevrolet,cruze lt,good,4,gas,216000,clean,automatic,fwd,mid-size,sedan,black,wi
+4300,2008,ford,expedition,good,8,gas,193369,clean,automatic,4wd,full-size,SUV,grey,wi
+4300,1999,jeep,grand cherokee laredo 4x4,good,6,gas,119000,clean,automatic,4wd,mid-size,SUV,blue,wi
+4400,2007,toyota,corolla,good,4,gas,130932,clean,automatic,fwd,full-size,sedan,silver,wi
+4400,2007,dodge,durango slt,good,8,gas,132580,clean,automatic,4wd,full-size,SUV,grey,wi
+4400,2006,honda,pilot ex-l,good,6,gas,255000,clean,automatic,4wd,full-size,SUV,blue,wi
+4400,2009,mazda,3,good,4,gas,141000,clean,automatic,fwd,compact,sedan,black,wi
+4450,2004,chevrolet,tahoe,good,8,gas,135600,clean,automatic,4wd,full-size,SUV,red,wi
+4495,2008,nissan,sentra 2.0 s,good,4,gas,177239,clean,automatic,fwd,compact,sedan,silver,wi
+4500,2011,chevrolet,cruze ls,excellent,4,gas,139000,clean,manual,fwd,mid-size,sedan,white,wi
+4500,2011,toyota,camry,good,4,gas,184500,clean,automatic,fwd,full-size,sedan,silver,wi
+4500,2011,nissan,versa 1.8 s,excellent,4,gas,81250,clean,manual,fwd,compact,hatchback,silver,wi
+4500,2003,chevrolet,avalanche,fair,8,gas,254000,clean,automatic,4wd,full-size,truck,silver,wi
+4500,2010,honda,odyssey ex w/ dvd,good,6,gas,190000,clean,automatic,fwd,full-size,mini-van,grey,wi
+4500,2012,ford,focus,good,4,gas,154000,clean,automatic,fwd,full-size,hatchback,grey,wi
+4500,2004,gmc,yukon xl,like new,8,gas,16500,clean,manual,4wd,full-size,SUV,green,wi
+4500,2007,honda,odyssey,good,6,gas,174500,clean,automatic,fwd,full-size,mini-van,blue,wi
+4500,2007,bmw,530xi,good,6,gas,136366,clean,automatic,4wd,full-size,sedan,blue,wi
+4500,2003,honda,civic ex,good,4,gas,72459,clean,manual,fwd,full-size,coupe,blue,wi
+4500,2008,dodge,durango 2008,excellent,8,gas,82725,clean,automatic,4wd,full-size,SUV,blue,wi
+4500,2009,ford,esape,good,6,gas,150000,clean,automatic,fwd,mid-size,SUV,blue,wi
+4500,2006,hyundai,tucson,like new,6,gas,84000,clean,automatic,4wd,mid-size,SUV,black,wi
+4500,2002,chevrolet,suburban,excellent,8,gas,170000,clean,automatic,rwd,full-size,SUV,black,wi
+4500,2013,dodge,dart,good,4,gas,126000,clean,automatic,fwd,mid-size,coupe,black,wi
+4550,2008,ford,fusion se,excellent,6,gas,122000,clean,automatic,fwd,mid-size,sedan,red,wi
+4599,2002,toyota,highlander,good,6,gas,103000,clean,automatic,fwd,mid-size,SUV,custom,wi
+4600,1994,nissan,pickup,good,4,gas,120000,clean,manual,rwd,compact,pickup,red,wi
+4600,2005,honda,accord 4-door sedan,excellent,4,gas,156000,clean,automatic,fwd,mid-size,sedan,custom,wi
+4700,2011,chevrolet,malibu lt,good,4,gas,112027,clean,automatic,fwd,full-size,sedan,silver,wi
+4700,2007,toyota,camry se,good,6,gas,160000,clean,automatic,fwd,compact,sedan,grey,wi
+4700,2006,chevrolet,impala ss,good,8,gas,140000,clean,automatic,fwd,full-size,sedan,blue,wi
+4700,2008,honda,odyssey ex-l,excellent,6,gas,154585,clean,automatic,fwd,full-size,mini-van,blue,wi
+4700,2004,kia,armanti,like new,6,gas,88000,clean,automatic,fwd,full-size,sedan,blue,wi
+4750,2005,toyota,sienna,good,6,gas,153500,clean,automatic,fwd,full-size,mini-van,grey,wi
+4750,2002,honda,crv,excellent,4,gas,147000,clean,automatic,4wd,mid-size,SUV,brown,wi
+4775,2011,dodge,caliber sxt,excellent,4,gas,138088,clean,automatic,fwd,sub-compact,hatchback,blue,wi
+4800,2010,jeep,liberty,good,6,gas,175000,clean,automatic,4wd,full-size,SUV,white,wi
+4800,2012,chevrolet,sonic lt,excellent,4,gas,68000,rebuilt,automatic,fwd,full-size,sedan,red,wi
+4895,2007,ford,focus,excellent,4,gas,68452,clean,automatic,fwd,compact,sedan,white,wi
+4900,1996,toyota,t100,excellent,4,gas,200000,clean,manual,rwd,mid-size,truck,white,wi
+4900,2010,kia,forte koup,good,4,gas,132125,clean,automatic,fwd,mid-size,coupe,silver,wi
+4900,2009,toyota,sienna,good,6,gas,187874,clean,automatic,fwd,full-size,van,silver,wi
+4900,2009,toyota,sienna,good,6,gas,187874,clean,automatic,fwd,full-size,van,silver,wi
+4900,2010,kia,forte koup,good,4,gas,132125,clean,automatic,fwd,mid-size,coupe,silver,wi
+4900,2009,toyota,sienna,good,6,gas,187874,clean,automatic,fwd,full-size,van,silver,wi
+4900,2010,kia,forte koup,good,4,gas,132125,clean,automatic,fwd,mid-size,coupe,silver,wi
+4900,2005,volkswagen,passat tdi,excellent,4,diesel,112000,clean,automatic,fwd,mid-size,sedan,grey,wi
+4900,2006,jeep,cherokee,good,8,gas,135000,clean,automatic,4wd,full-size,SUV,grey,wi
+4900,2006,toyota,highlander,good,4,gas,175030,clean,automatic,fwd,full-size,SUV,green,wi
+4900,2006,toyota,highlander,good,4,gas,175030,clean,automatic,fwd,full-size,SUV,green,wi
+4900,2006,toyota,highlander,good,4,gas,175030,clean,automatic,fwd,full-size,SUV,green,wi
+4900,2008,jeep,grand cherokee,excellent,6,diesel,262000,clean,automatic,4wd,mid-size,SUV,black,wi
+4900,2007,lexus,es350,good,6,gas,196000,clean,automatic,fwd,full-size,sedan,black,wi
+4950,2001,lexus,es 300,excellent,6,gas,115000,clean,automatic,fwd,mid-size,sedan,black,wi
+4975,2014,ram,cargo van,excellent,6,gas,199743,clean,automatic,fwd,full-size,van,white,wi
+4975,2002,ford,f150 lariat 4x4,excellent,8,gas,186087,clean,automatic,4wd,full-size,pickup,red,wi
+4975,2005,dodge,grand caravan sxt,excellent,6,gas,65088,clean,automatic,fwd,mid-size,mini-van,blue,wi
+4995,2009,chevrolet,aveo lt,good,4,gas,87785,clean,manual,fwd,compact,sedan,yellow,wi
+4995,2004,pontiac,sunfire,excellent,4,gas,55675,clean,automatic,fwd,compact,coupe,silver,wi
+4995,2004,ford,f-150,excellent,6,gas,187000,clean,automatic,4wd,full-size,pickup,red,wi
+4995,2005,pontiac,vibe (toyota matrix),excellent,4,gas,143927,clean,automatic,fwd,compact,hatchback,red,wi
+4995,2007,dodge,nitro slt,excellent,6,gas,162500,clean,automatic,4wd,full-size,SUV,red,wi
+4995,2011,chevrolet,equinox lt,good,4,gas,187500,clean,automatic,fwd,full-size,wagon,red,wi
+4995,2006,ford,expedition eddie bauer,excellent,8,gas,119000,clean,automatic,rwd,full-size,SUV,grey,wi
+4995,2007,kia,rondo lx,excellent,6,gas,149086,clean,automatic,fwd,mid-size,SUV,blue,wi
+4995,2011,ford,focus,excellent,4,gas,129760,clean,automatic,fwd,compact,sedan,black,wi
+4995,2009,kia,rio lx,good,4,gas,93476,clean,manual,fwd,compact,sedan,black,wi
+4995,2008,mercury,milan,good,4,gas,129212,clean,automatic,fwd,mid-size,sedan,black,wi
+5000,2004,chrysler,sebring,excellent,6,gas,47918,clean,automatic,fwd,mid-size,coupe,white,wi
+5000,1990,cadillac,deville,excellent,8,gas,46000,clean,automatic,rwd,full-size,sedan,white,wi
+5000,2012,kia,soul,good,4,gas,106000,clean,automatic,fwd,compact,hatchback,white,wi
+5000,2005,dodge,dakota quad cab,good,8,gas,7200,clean,automatic,rwd,mid-size,truck,red,wi
+5000,2004,chevrolet,monte carlo ss,excellent,6,gas,78000,clean,automatic,fwd,mid-size,coupe,red,wi
+5000,2010,pontiac,g6,good,4,hybrid,69000,clean,automatic,fwd,full-size,sedan,red,wi
+5000,2004,hyundai,santa fe,like new,6,gas,104000,clean,automatic,4wd,full-size,SUV,black,wi
+5000,2012,nissan,altima,excellent,4,gas,131400,clean,automatic,fwd,full-size,sedan,black,wi
+5000,2010,subaru,legacy premium,good,6,gas,184000,clean,automatic,4wd,mid-size,sedan,black,wi
+5000,2010,toyota,corolla s,excellent,4,gas,109000,clean,manual,fwd,compact,sedan,black,wi
+5100,2006,buick,lacrosse cxl 4dr sedan,excellent,6,gas,85900,clean,automatic,fwd,mid-size,sedan,silver,wi
+5199,2007,honda,pilot,good,6,gas,210491,clean,automatic,4wd,full-size,SUV,custom,wi
+5200,2010,toyota,corolla,good,4,gas,140000,clean,manual,fwd,compact,sedan,grey,wi
+5200,2001,bmw,x5,good,6,gas,201000,clean,automatic,4wd,sub-compact,SUV,grey,wi
+5200,1991,mercury,grand marquis-mint,like new,8,gas,127000,clean,automatic,rwd,full-size,sedan,custom,wi
+5200,2010,ford,escape limited,good,6,other,101225,clean,automatic,fwd,mid-size,SUV,black,wi
+5250,2007,ford,freestyle sel,excellent,6,gas,133000,clean,automatic,fwd,full-size,wagon,green,wi
+5300,2014,ford,focus,excellent,4,gas,114075,clean,automatic,fwd,sub-compact,sedan,silver,wi
+5375,2004,chevrolet,tahoe lt 4x4,excellent,8,gas,267098,clean,automatic,4wd,full-size,SUV,silver,wi
+5375,2011,ford,escape xlt fwd,excellent,4,gas,118098,clean,automatic,fwd,mid-size,SUV,blue,wi
+5475,2005,honda,element ex,excellent,4,gas,154098,clean,automatic,fwd,mid-size,SUV,silver,wi
+5495,2009,honda,civic,excellent,4,gas,151473,clean,automatic,fwd,compact,coupe,silver,wi
+5495,2009,pontiac,torrent,excellent,6,gas,154596,clean,automatic,fwd,mid-size,SUV,red,wi
+5495,2008,ford,ranger xlt,good,4,gas,130321,clean,automatic,rwd,mid-size,pickup,red,wi
+5495,2006,honda,crv,excellent,4,gas,169728,rebuilt,automatic,4wd,mid-size,SUV,grey,wi
+5499,2012,chevrolet,impala lt,good,6,gas,117000,clean,automatic,fwd,mid-size,sedan,grey,wi
+5500,2006,lincoln,town car,excellent,8,gas,129033,clean,automatic,rwd,full-size,sedan,white,wi
+5500,2006,lincoln,town car,excellent,8,gas,129033,clean,automatic,rwd,full-size,sedan,white,wi
+5500,2006,lincoln,town car,excellent,8,gas,129033,clean,automatic,rwd,full-size,sedan,white,wi
+5500,2001,gmc,sierra 2500hd,good,8,gas,169000,clean,automatic,4wd,full-size,truck,white,wi
+5500,2006,lincoln,town car,excellent,8,gas,129032,clean,automatic,rwd,full-size,sedan,white,wi
+5500,2009,volkswagen,passat,fair,4,gas,125000,clean,automatic,fwd,full-size,sedan,white,wi
+5500,2014,volkswagen,jetta se,excellent,4,gas,114000,clean,automatic,fwd,compact,sedan,silver,wi
+5500,2010,honda,fit,excellent,4,gas,147100,clean,automatic,fwd,full-size,sedan,silver,wi
+5500,2003,infiniti,g35,like new,6,gas,147000,clean,automatic,4wd,mid-size,sedan,silver,wi
+5500,2013,hyundai,elantra limited,good,4,gas,179401,clean,automatic,fwd,mid-size,sedan,silver,wi
+5500,2013,hyundai,elantra limited,good,4,gas,179401,clean,automatic,fwd,mid-size,sedan,silver,wi
+5500,2002,bmw,x5,like new,6,gas,115000,clean,automatic,4wd,full-size,SUV,green,wi
+5500,2008,ford,f-150,fair,8,gas,96000,clean,automatic,4wd,full-size,truck,blue,wi
+5500,2009,honda,odyssey ex,excellent,6,gas,168000,clean,automatic,fwd,full-size,mini-van,blue,wi
+5500,2012,nissan,rogue sv,like new,4,gas,135000,clean,automatic,4wd,mid-size,SUV,black,wi
+5500,2009,nissan,pathfinder se 4x4,excellent,6,gas,220080,clean,automatic,4wd,full-size,SUV,black,wi
+5574,2009,toyota,prius,good,4,hybrid,160033,clean,automatic,fwd,mid-size,hatchback,grey,wi
+5750,2009,volkswagen,passat,excellent,4,gas,113000,clean,automatic,fwd,mid-size,coupe,black,wi
+5800,2010,pontiac,vibe,good,4,gas,103000,clean,automatic,fwd,compact,sedan,blue,wi
+5800,2008,lexus,rx400h,good,6,hybrid,212000,clean,automatic,4wd,mid-size,SUV,black,wi
+5800,2007,acura,tl,good,6,gas,193100,clean,automatic,fwd,mid-size,sedan,black,wi
+5900,2010,buick,lucerne cxl,excellent,6,gas,147357,clean,automatic,fwd,full-size,sedan,red,wi
+5900,2011,honda,cr-v,good,4,gas,184376,clean,automatic,fwd,full-size,SUV,blue,wi
+5900,2011,honda,cr-v,good,4,gas,184376,clean,automatic,fwd,full-size,SUV,blue,wi
+5900,2011,honda,cr-v,good,4,gas,184376,clean,automatic,fwd,full-size,SUV,blue,wi
+5900,2007,toyota,yaris,excellent,4,gas,134104,rebuilt,automatic,fwd,compact,coupe,blue,wi
+5900,2003,mercedes-benz,benz e320,excellent,6,gas,79000,clean,automatic,rwd,mid-size,sedan,black,wi
+5900,2006,toyota,highlander hybrid,good,6,gas,152562,clean,automatic,fwd,full-size,SUV,black,wi
+5900,2007,gmc,yukon denali,good,8,gas,205000,clean,automatic,4wd,full-size,SUV,black,wi
+5900,2006,toyota,highlander hybrid,good,6,gas,152562,clean,automatic,fwd,full-size,SUV,black,wi
+5900,2006,toyota,highlander hybrid,good,6,gas,152562,clean,automatic,fwd,full-size,SUV,black,wi
+5950,2006,ford,escape 4x4 snow plow,excellent,6,gas,157877,clean,automatic,4wd,mid-size,SUV,white,wi
+5995,2010,chevrolet,impala,good,6,gas,183395,clean,automatic,fwd,full-size,sedan,white,wi
+5995,2012,kia,soul,like new,4,gas,138515,clean,manual,fwd,compact,wagon,silver,wi
+5995,2014,subaru,25ix,good,4,gas,265000,clean,automatic,4wd,mid-size,SUV,silver,wi
+5995,2013,chevrolet,sonic lt 2lt,good,4,gas,94834,clean,automatic,fwd,mid-size,hatchback,silver,wi
+5995,2011,subaru,impreza sedan,excellent,4,gas,135139,clean,automatic,4wd,compact,sedan,red,wi
+5995,2012,kia,soul +,excellent,4,gas,110837,clean,automatic,fwd,compact,SUV,grey,wi
+5995,2007,ford,taurus se,good,6,gas,103427,clean,automatic,fwd,mid-size,sedan,brown,wi
+5995,2009,mitsubishi,galant,good,4,gas,63359,clean,automatic,fwd,full-size,sedan,black,wi
+5999,2010,honda,civic,excellent,4,gas,129438,clean,automatic,fwd,mid-size,sedan,silver,wi
+6000,2013,nissan,sentra sv,excellent,4,gas,85000,clean,automatic,fwd,mid-size,sedan,white,wi
+6000,2005,ford,mustang,good,6,gas,172288,clean,automatic,rwd,mid-size,coupe,silver,wi
+6000,2012,chevrolet,cruze eco,excellent,4,gas,107000,clean,manual,fwd,compact,sedan,silver,wi
+6000,2011,chevrolet,hhr lt,excellent,4,gas,46354,clean,automatic,fwd,mid-size,hatchback,silver,wi
+6000,2005,cadillac,escalade,good,8,gas,179736,clean,automatic,4wd,full-size,SUV,red,wi
+6000,2010,pontiac,g6 2010,excellent,5,other,133000,clean,automatic,fwd,mid-size,sedan,red,wi
+6000,2005,cadillac,escalade,good,8,gas,179736,clean,automatic,4wd,full-size,SUV,red,wi
+6000,2007,volkswagen,gti,good,4,gas,54623,clean,manual,fwd,compact,hatchback,red,wi
+6000,2014,chrysler,300,like new,6,gas,194300,lien,automatic,rwd,full-size,sedan,grey,wi
+6000,2013,bmw,328i xdrive,fair,6,gas,90000,salvage,automatic,4wd,mid-size,sedan,grey,wi
+6000,2007,toyota,rav4,good,4,gas,144000,clean,automatic,4wd,compact,SUV,green,wi
+6000,2008,mazda,cx-7 sport,good,4,gas,45000,clean,automatic,4wd,mid-size,SUV,custom,wi
+6000,2007,dodge,dakota,good,8,gas,144000,clean,automatic,4wd,full-size,pickup,black,wi
+6000,2009,cadillac,cts,excellent,6,gas,196150,clean,automatic,4wd,mid-size,sedan,black,wi
+6000,2009,cadillac,cts,excellent,6,gas,196150,clean,automatic,4wd,mid-size,sedan,black,wi
+6000,2001,ford,350,good,10,gas,127800,clean,automatic,rwd,full-size,pickup,black,wi
+6100,2007,infiniti,fx35 awd,good,6,gas,201000,clean,automatic,4wd,mid-size,SUV,black,wi
+6200,2006,ford,f350 super duty,good,8,gas,87000,clean,automatic,rwd,full-size,truck,white,wi
+6200,2006,ford,f350 super duty,good,8,gas,87000,clean,automatic,rwd,full-size,truck,white,wi
+6200,2006,mercedes-benz,benz,good,8,gas,190000,clean,automatic,fwd,full-size,sedan,custom,wi
+6250,2011,chevrolet,cruze lt,excellent,4,gas,64900,clean,automatic,fwd,compact,sedan,red,wi
+6250,2011,hyundai,sonata hybrid,good,4,hybrid,147000,clean,automatic,fwd,full-size,sedan,blue,wi
+6270,2005,chevrolet,silverado 1500,good,8,gas,188000,clean,automatic,4wd,full-size,truck,white,wi
+6295,2015,ford,transit connect cargo van,excellent,4,gas,261000,clean,automatic,fwd,mid-size,van,white,wi
+6295,2015,ford,transit connect cargo van,excellent,4,gas,261000,clean,automatic,fwd,mid-size,van,white,wi
+6295,2015,ford,transit connect xlt cargo,excellent,4,gas,261533,clean,automatic,fwd,mid-size,mini-van,white,wi
+6300,2004,ford,f150,excellent,8,gas,136000,clean,automatic,rwd,full-size,truck,brown,wi
+6400,2011,hyundai,sonata limited 2.0t,excellent,4,gas,147570,clean,automatic,fwd,full-size,sedan,silver,wi
+6452,2013,hyundai,accent gls,good,4,gas,77718,clean,automatic,fwd,mid-size,sedan,silver,wi
+6488,2011,ford,taurus sel,excellent,6,gas,175000,clean,automatic,fwd,full-size,sedan,black,wi
+6495,2007,ford,escape xlt,like new,6,gas,92137,clean,automatic,4wd,full-size,SUV,white,wi
+6495,2008,honda,cr-v ex-l,excellent,4,gas,188292,clean,automatic,4wd,compact,SUV,red,wi
+6495,2006,toyota,avalon,excellent,6,gas,151168,clean,automatic,fwd,mid-size,sedan,brown,wi
+6495,2004,chevrolet,monte carlo ss,like new,6,gas,109025,clean,automatic,fwd,full-size,sedan,black,wi
+6495,2004,chevrolet,monte carlo ss,like new,6,gas,109025,clean,automatic,fwd,full-size,sedan,black,wi
+6500,2010,ford,ranger,good,6,gas,93000,clean,automatic,4wd,mid-size,pickup,white,wi
+6500,2017,mitsubishi,mirage,fair,4,gas,58150,clean,automatic,fwd,full-size,hatchback,silver,wi
+6500,2007,ram,1500,good,8,gas,148000,clean,automatic,4wd,mid-size,pickup,silver,wi
+6500,2006,lincoln,town car,excellent,8,gas,75,clean,automatic,rwd,full-size,sedan,red,wi
+6500,2015,jeep,compass,good,4,gas,65000,rebuilt,automatic,4wd,compact,SUV,red,wi
+6500,2008,nissan,frontier le,good,6,gas,165500,clean,automatic,4wd,mid-size,truck,grey,wi
+6500,2014,subaru,outback,good,4,gas,279000,clean,automatic,4wd,mid-size,wagon,grey,wi
+6500,2017,ford,focus se,good,4,gas,177000,clean,automatic,fwd,compact,hatchback,grey,wi
+6500,2011,chrysler,200,excellent,6,other,130000,clean,automatic,fwd,full-size,sedan,black,wi
+6600,2004,jeep,liberty 4x4,good,6,gas,122000,clean,automatic,4wd,mid-size,SUV,silver,wi
+6640,2004,honda,pilot,good,6,gas,114180,clean,automatic,4wd,mid-size,SUV,red,wi
+6640,2004,honda,pilot,good,6,gas,114180,clean,automatic,4wd,mid-size,SUV,red,wi
+6750,2008,toyota,matrix cc,excellent,4,gas,97000,clean,automatic,fwd,compact,hatchback,blue,wi
+6900,2011,toyota,rav4,excellent,4,gas,131770,clean,automatic,4wd,full-size,SUV,red,wi
+6950,2014,chevrolet,spark ls,excellent,4,gas,63624,clean,automatic,fwd,compact,hatchback,purple,wi
+6950,2014,chevrolet,spark ls,excellent,4,gas,63624,clean,automatic,fwd,compact,hatchback,purple,wi
+6950,2011,ford,edge sel,excellent,6,gas,173104,clean,automatic,4wd,mid-size,SUV,custom,wi
+6975,2013,ford,c-max energi,excellent,4,hybrid,120150,clean,automatic,fwd,compact,hatchback,silver,wi
+6975,2011,ford,transit connect,excellent,4,gas,133114,clean,automatic,fwd,full-size,van,blue,wi
+6975,2011,ford,transit connect,excellent,4,gas,133114,clean,automatic,fwd,full-size,van,blue,wi
+6990,2015,ford,fusion s,like new,4,gas,159980,clean,automatic,fwd,mid-size,sedan,white,wi
+6990,2006,toyota,sienna le,excellent,6,gas,131435,clean,automatic,fwd,mid-size,mini-van,silver,wi
+6994,2011,honda,civic lx sedan,excellent,4,gas,137592,clean,automatic,fwd,full-size,sedan,black,wi
+6995,2008,pontiac,g6 convertible,good,6,gas,152161,clean,automatic,fwd,mid-size,convertible,white,wi
+6995,2012,ford,taurus,good,6,gas,165543,clean,automatic,fwd,full-size,sedan,silver,wi
+6995,2012,ford,focus,excellent,4,gas,87420,clean,automatic,fwd,mid-size,sedan,red,wi
+6995,2006,honda,civic,excellent,4,gas,68920,clean,automatic,fwd,compact,sedan,custom,wi
+6995,2007,buick,lucerne,excellent,6,gas,65000,clean,automatic,fwd,full-size,sedan,blue,wi
+6995,2012,jeep,patriot,good,4,gas,131145,clean,automatic,4wd,mid-size,SUV,blue,wi
+6995,2014,chevrolet,impala,good,6,gas,90578,clean,automatic,fwd,full-size,sedan,black,wi
+6995,2010,toyota,camry hybrid,good,4,hybrid,154577,clean,automatic,fwd,mid-size,sedan,black,wi
+6998,2014,chevrolet,spark,excellent,4,gas,62202,clean,manual,fwd,sub-compact,hatchback,silver,wi
+6998,2014,chevrolet,spark,excellent,4,gas,62202,clean,manual,fwd,sub-compact,hatchback,silver,wi
+6998,2012,chevrolet,cruze lt,excellent,4,gas,96000,clean,automatic,fwd,mid-size,sedan,black,wi
+6999,2008,chevrolet,trailblazer ls,like new,6,gas,116000,clean,automatic,4wd,mid-size,SUV,silver,wi
+7000,2016,kia,soul,good,4,gas,108200,clean,manual,fwd,compact,wagon,white,wi
+7000,2002,toyota,tacoma,good,4,gas,166000,clean,automatic,4wd,mid-size,truck,silver,wi
+7000,2014,toyota,camry le,good,4,gas,133000,salvage,automatic,fwd,full-size,sedan,silver,wi
+7000,2012,kia,sorento,excellent,6,gas,134400,clean,automatic,4wd,full-size,SUV,grey,wi
+7000,2015,dodge,grand caravan sxt,excellent,6,gas,117416,clean,automatic,fwd,full-size,mini-van,grey,wi
+7000,2010,honda,civic ex sedan,excellent,4,gas,90000,clean,manual,fwd,mid-size,sedan,grey,wi
+7000,2014,volkswagen,jetta,excellent,4,gas,96000,lien,automatic,fwd,mid-size,wagon,blue,wi
+7000,1993,buick,roadmaster 4 door,excellent,8,gas,67516,clean,automatic,rwd,full-size,sedan,black,wi
+7000,2007,gmc,1500 yukon denali xl,good,8,gas,260644,clean,automatic,4wd,full-size,SUV,black,wi
+7200,2014,volkswagen,jetta,excellent,4,gas,99869,clean,automatic,fwd,mid-size,sedan,silver,wi
+7200,2013,kia,soul exclaim,excellent,4,gas,100500,clean,automatic,fwd,mid-size,hatchback,green,wi
+7200,2008,audi,a6 3.2 ltr. quattro s-line,excellent,6,gas,114000,clean,automatic,rwd,full-size,coupe,brown,wi
+7295,2009,ford,edge,good,6,gas,152346,clean,automatic,4wd,mid-size,SUV,silver,wi
+7300,2009,cadillac,dts,excellent,8,gas,99200,clean,automatic,fwd,full-size,sedan,red,wi
+7300,2011,ford,escape,excellent,4,gas,98000,clean,automatic,fwd,mid-size,SUV,black,wi
+7350,2011,ford,edge sel,excellent,6,gas,173104,clean,automatic,4wd,mid-size,SUV,custom,wi
+7462,2011,toyota,prius,good,4,hybrid,94438,clean,automatic,fwd,mid-size,hatchback,red,wi
+7475,2008,buick,enclave cxl_fwd,excellent,6,gas,143321,clean,automatic,fwd,full-size,sedan,red,wi
+7495,2009,honda,odyssey,excellent,6,gas,126990,clean,automatic,fwd,full-size,mini-van,white,wi
+7495,2009,subaru,forester 2.5 x awd,excellent,4,gas,159204,clean,automatic,4wd,compact,SUV,black,wi
+7499,2006,ford,f-150,good,8,gas,94496,clean,automatic,rwd,full-size,truck,red,wi
+7499,2006,ford,f-150,good,8,gas,94496,clean,automatic,rwd,full-size,truck,red,wi
+7499,2002,chevrolet,avalanche z71,good,8,gas,151000,clean,automatic,4wd,full-size,offroad,black,wi
+7500,2013,chevrolet,express 2500,good,8,gas,141000,clean,automatic,rwd,full-size,van,white,wi
+7500,2013,ford,f150,good,8,gas,192075,clean,automatic,4wd,full-size,pickup,white,wi
+7500,2006,ford,f350,good,8,gas,203000,clean,automatic,4wd,full-size,pickup,red,wi
+7500,2001,ford,f-350,good,10,gas,124500,clean,automatic,4wd,full-size,truck,red,wi
+7500,2014,ford,focus se,excellent,4,gas,76000,clean,automatic,fwd,mid-size,sedan,red,wi
+7500,2008,chevrolet,silverado,good,8,gas,164000,clean,automatic,4wd,full-size,pickup,grey,wi
+7500,2003,toyota,4runner sr5 4x4,like new,6,gas,270000,clean,automatic,4wd,full-size,SUV,grey,wi
+7500,2002,chevrolet,1500 suburban,excellent,8,gas,65000,clean,automatic,4wd,full-size,SUV,brown,wi
+7500,2013,chevrolet,cruze ls,good,4,gas,68562,clean,automatic,fwd,mid-size,sedan,blue,wi
+7590,2010,toyota,corolla le,excellent,4,gas,135706,clean,automatic,fwd,compact,sedan,black,wi
+7595,2006,toyota,highlander,good,6,gas,152000,clean,automatic,4wd,mid-size,SUV,black,wi
+7595,2006,toyota,highlander,good,6,gas,152000,clean,automatic,4wd,mid-size,SUV,black,wi
+7768,2014,chevrolet,cruze ltz,good,4,gas,100407,clean,automatic,fwd,mid-size,sedan,white,wi
+7800,2011,ford,f-150,good,8,gas,112000,clean,automatic,4wd,full-size,truck,silver,wi
+7800,2012,ford,fusion se,excellent,4,gas,104500,clean,automatic,fwd,mid-size,sedan,red,wi
+7800,2000,chevrolet,silverado 1500,good,8,gas,100000,clean,automatic,4wd,full-size,pickup,blue,wi
+7800,2012,hyundai,sonata limited 2.0t,excellent,4,gas,133050,clean,automatic,fwd,full-size,sedan,black,wi
+7800,2012,subaru,legacy,excellent,4,gas,83000,clean,automatic,4wd,mid-size,sedan,black,wi
+7895,2013,mitsubishi,outlander sport,excellent,4,gas,61000,rebuilt,automatic,4wd,mid-size,SUV,white,wi
+7895,2012,ford,fusion se,good,4,gas,109692,clean,automatic,fwd,mid-size,sedan,red,wi
+7900,2010,chevrolet,malibu lt,good,4,gas,72800,clean,automatic,fwd,mid-size,sedan,red,wi
+7900,2007,toyota,camry,excellent,6,gas,46281,rebuilt,automatic,fwd,full-size,sedan,red,wi
+7900,2010,nissan,xterra,good,6,gas,192500,clean,automatic,4wd,mid-size,SUV,grey,wi
+7900,2007,mercedes-benz,benz e350,excellent,6,gas,85000,clean,automatic,rwd,full-size,sedan,black,wi
+7900,2008,cadillac,escalade,good,8,gas,20800,clean,automatic,4wd,full-size,SUV,black,wi
+7900,2010,ford,ranger xlt,excellent,4,gas,115000,clean,manual,rwd,compact,pickup,black,wi
+7900,2011,hyundai,sonata,good,4,gas,133680,clean,automatic,fwd,mid-size,sedan,black,wi
+7915,2008,mazda,cx-9 grand touring,excellent,6,gas,131989,clean,automatic,4wd,full-size,SUV,black,wi
+7941,2015,nissan,sentra sv,good,4,gas,88224,clean,automatic,fwd,mid-size,sedan,grey,wi
+7950,2013,chevrolet,equinox lt,good,4,gas,102900,clean,automatic,fwd,mid-size,SUV,brown,wi
+7950,2010,ford,f-150,excellent,8,gas,226000,clean,automatic,4wd,full-size,pickup,blue,wi
+7975,2008,gmc,arcadia,like new,6,gas,127098,clean,automatic,4wd,mid-size,SUV,white,wi
+7975,2013,hyundai,tucson,excellent,4,gas,104206,clean,automatic,fwd,full-size,SUV,black,wi
+7990,2015,chrysler,200,excellent,4,gas,91736,clean,automatic,fwd,mid-size,sedan,red,wi
+7990,2011,nissan,rogue,excellent,4,gas,116648,clean,automatic,4wd,mid-size,SUV,grey,wi
+7990,2011,nissan,rogue,excellent,4,gas,116648,clean,automatic,4wd,mid-size,SUV,grey,wi
+7995,2008,honda,accord exl,excellent,4,gas,97105,clean,automatic,fwd,mid-size,coupe,white,wi
+7995,2012,nissan,sentra,excellent,4,gas,62075,clean,automatic,fwd,compact,sedan,white,wi
+7995,2011,chevrolet,traverse,good,6,gas,178054,clean,automatic,4wd,full-size,SUV,white,wi
+7995,2008,chevrolet,silverado 1500,good,8,gas,143146,clean,automatic,4wd,full-size,truck,white,wi
+7995,2009,honda,odyssey,excellent,6,gas,101769,clean,automatic,fwd,full-size,mini-van,silver,wi
+7995,2007,subaru,outback,excellent,4,gas,123000,clean,automatic,4wd,mid-size,wagon,silver,wi
+7995,2007,subaru,outback,excellent,4,gas,123000,clean,automatic,4wd,mid-size,wagon,silver,wi
+7995,2013,ford,edge limited,good,6,gas,135978,clean,automatic,4wd,mid-size,SUV,silver,wi
+7995,2013,ford,edge limited,good,6,gas,135978,clean,automatic,4wd,mid-size,SUV,silver,wi
+7995,2012,toyota,camry xle,good,4,gas,149988,clean,automatic,fwd,mid-size,sedan,silver,wi
+7995,2013,ford,focus,excellent,4,gas,98491,clean,automatic,fwd,compact,sedan,red,wi
+7995,2011,nissan,rogue sv,excellent,4,gas,145524,clean,automatic,4wd,compact,SUV,red,wi
+7995,2009,toyota,corolla s,excellent,4,gas,140674,clean,manual,fwd,compact,sedan,grey,wi
+7995,2005,honda,accord,excellent,6,gas,55315,clean,automatic,fwd,mid-size,sedan,blue,wi
+7995,2008,chevrolet,silverado,good,8,gas,210346,clean,automatic,4wd,full-size,truck,blue,wi
+7995,2016,ford,fiesta,excellent,4,gas,66326,clean,automatic,fwd,sub-compact,sedan,black,wi
+7995,2011,ford,fusion,excellent,4,hybrid,103915,clean,automatic,fwd,full-size,sedan,black,wi
+7995,2016,kia,forte,good,4,gas,19000,clean,manual,fwd,compact,sedan,black,wi
+7995,2012,nissan,altima,excellent,4,gas,94881,clean,automatic,fwd,full-size,sedan,black,wi
+7997,2012,gmc,acadia,good,6,gas,91246,clean,automatic,fwd,mid-size,SUV,grey,wi
+8000,2014,dodge,grand caravan,good,6,gas,99228,clean,automatic,fwd,full-size,mini-van,white,wi
+8000,2009,buick,enclave,excellent,6,gas,160000,clean,automatic,4wd,full-size,SUV,white,wi
+8000,2014,honda,cr-v ex 4wd,good,4,gas,187371,clean,automatic,4wd,mid-size,SUV,brown,wi
+8000,2014,honda,cr-v ex 4wd,good,4,gas,187371,clean,automatic,4wd,mid-size,SUV,brown,wi
+8000,2015,volkswagen,golf launch edition,excellent,4,gas,26330,clean,manual,fwd,compact,hatchback,black,wi
+8000,2011,jeep,grand cherokee overland,good,6,gas,167000,clean,automatic,4wd,full-size,SUV,black,wi
+8000,2001,chevrolet,monte carlo ss,excellent,6,gas,54000,clean,automatic,fwd,full-size,coupe,black,wi
+8100,2010,chevrolet,impala,excellent,6,gas,94860,clean,automatic,fwd,full-size,sedan,black,wi
+8140,2007,ford,econoline cargo van,good,8,gas,146380,clean,automatic,rwd,full-size,van,white,wi
+8140,2007,ford,econoline cargo van,good,8,gas,146380,clean,automatic,rwd,full-size,van,white,wi
+8140,2007,ford,econoline cargo van,good,8,gas,146380,clean,automatic,rwd,full-size,van,white,wi
+8192,2012,chrysler,town & country touring,good,6,gas,130289,clean,automatic,fwd,full-size,mini-van,black,wi
+8200,2011,bmw,328i xdrive,excellent,6,gas,128000,clean,automatic,4wd,mid-size,sedan,blue,wi
+8281,2014,chrysler,town country,good,6,gas,148121,clean,automatic,fwd,full-size,van,white,wi
+8281,2014,chrysler,town country,good,6,gas,148121,clean,automatic,fwd,full-size,van,white,wi
+8281,2014,chrysler,town country,good,6,gas,148121,clean,automatic,fwd,full-size,van,white,wi
+8300,2010,volkswagen,gti,excellent,4,gas,123000,clean,manual,fwd,mid-size,hatchback,black,wi
+8410,2007,ford,econoline cargo van,good,8,gas,143663,clean,automatic,rwd,full-size,van,white,wi
+8410,2007,ford,econoline cargo van,good,8,gas,143663,clean,automatic,rwd,full-size,van,white,wi
+8410,2007,ford,econoline cargo van,good,8,gas,143663,clean,automatic,rwd,full-size,van,white,wi
+8488,2008,mercedes-benz,benz e350,excellent,6,gas,124000,clean,automatic,4wd,full-size,sedan,silver,wi
+8495,2018,kia,soul +,excellent,4,gas,72318,clean,automatic,fwd,compact,SUV,red,wi
+8495,2005,chevrolet,express 3500,excellent,8,gas,121401,clean,automatic,rwd,full-size,van,brown,wi
+8495,2003,chevrolet,avalanche,good,8,gas,130191,clean,automatic,4wd,full-size,truck,brown,wi
+8499,2013,honda,civic,good,4,gas,116343,clean,automatic,fwd,compact,coupe,black,wi
+8500,2006,honda,ridgeline,good,6,gas,161000,clean,automatic,4wd,full-size,pickup,white,wi
+8500,1997,ford,f-250,good,8,diesel,263000,clean,automatic,4wd,full-size,pickup,white,wi
+8500,2011,honda,accord ex sedan 4d,excellent,4,gas,86666,clean,automatic,fwd,mid-size,sedan,silver,wi
+8500,2007,lexus,es 350,excellent,6,gas,105890,clean,automatic,fwd,full-size,sedan,silver,wi
+8500,2015,honda,fit ex,like new,4,gas,148517,rebuilt,automatic,fwd,compact,sedan,red,wi
+8500,2006,toyota,highlander hybrid limited,good,6,hybrid,117000,clean,automatic,4wd,mid-size,SUV,brown,wi
+8500,2012,toyota,yaris,excellent,4,gas,99743,clean,automatic,fwd,compact,coupe,black,wi
+8500,2012,toyota,yaris,excellent,4,gas,99743,clean,automatic,fwd,compact,coupe,black,wi
+8530,2011,chevrolet,equinox,excellent,4,gas,107927,clean,automatic,fwd,mid-size,SUV,black,wi
+8530,2011,chevrolet,equinox,excellent,4,gas,107927,clean,automatic,fwd,mid-size,SUV,black,wi
+8600,2012,volkswagen,tiguan se,like new,4,gas,79000,clean,automatic,fwd,mid-size,SUV,silver,wi
+8643,2014,ford,fusion se,good,4,gas,144081,clean,automatic,fwd,full-size,sedan,custom,wi
+8650,2008,toyota,rav4,like new,4,gas,127650,clean,automatic,4wd,mid-size,SUV,blue,wi
+8700,2012,honda,odyssey ex-l,good,6,gas,170000,clean,automatic,fwd,full-size,mini-van,red,wi
+8700,2010,gmc,acadia slt-2,like new,6,gas,126000,clean,automatic,4wd,full-size,SUV,red,wi
+8724,2012,chevrolet,impala ltz,good,6,gas,72740,clean,automatic,fwd,full-size,sedan,black,wi
+8750,2013,hyundai,sonata hybrid limited,excellent,4,gas,77592,clean,automatic,fwd,mid-size,sedan,silver,wi
+8750,2012,audi,a4 s-line quattro,excellent,4,gas,156000,clean,automatic,4wd,mid-size,sedan,grey,wi
+8795,2011,mercedes-benz,benz e 350 sport,good,6,gas,102101,clean,automatic,rwd,mid-size,sedan,grey,wi
+8795,2008,toyota,4runner limited,good,6,gas,225849,clean,automatic,4wd,mid-size,SUV,black,wi
+8800,2012,nissan,armada platinum 4wd,good,8,gas,196787,clean,automatic,4wd,full-size,SUV,grey,wi
+8840,2007,ford,econoline cargo van,good,8,gas,134220,clean,automatic,rwd,full-size,van,white,wi
+8840,2007,ford,econoline cargo van,good,8,gas,134220,clean,automatic,rwd,full-size,van,white,wi
+8840,2007,ford,econoline cargo van,good,8,gas,134220,clean,automatic,rwd,full-size,van,white,wi
+8887,2011,toyota,venza,good,4,gas,140875,clean,automatic,fwd,mid-size,SUV,grey,wi
+8900,2014,fiat,500l trekking,excellent,4,gas,46500,clean,automatic,fwd,mid-size,hatchback,white,wi
+8900,2016,hyundai,accent,like new,4,gas,17612,rebuilt,automatic,fwd,compact,sedan,red,wi
+8900,2006,honda,pilot,like new,6,gas,113765,rebuilt,automatic,4wd,full-size,SUV,brown,wi
+8900,2016,hyundai,elantra,like new,4,gas,33133,rebuilt,automatic,fwd,mid-size,sedan,blue,wi
+8900,2013,hyundai,veloster,good,4,gas,113840,clean,automatic,fwd,mid-size,coupe,black,wi
+8900,2002,ford,super duty f-350 drw,fair,8,diesel,135000,clean,automatic,4wd,full-size,pickup,black,wi
+8900,2007,lexus,es 350,excellent,6,gas,111729,rebuilt,automatic,fwd,full-size,sedan,black,wi
+8935,2008,buick,enclave,excellent,6,gas,135220,clean,automatic,4wd,full-size,SUV,yellow,wi
+8975,2006,mercedes-benz,slk,excellent,6,gas,112432,clean,automatic,rwd,mid-size,convertible,black,wi
+8990,2009,dodge,grand caravan,good,6,gas,54730,clean,automatic,fwd,full-size,van,silver,wi
+8995,2015,ford,c-max hybrid,excellent,4,hybrid,97571,clean,automatic,fwd,mid-size,sedan,white,wi
+8995,2007,chevrolet,suburban,good,8,gas,198606,clean,automatic,4wd,full-size,SUV,white,wi
+8995,2002,honda,insight hybrid,good,3,hybrid,46096,clean,automatic,fwd,sub-compact,hatchback,silver,wi
+8995,2013,toyota,corolla le,excellent,4,gas,108592,clean,automatic,fwd,compact,sedan,red,wi
+8995,2013,chevrolet,malibu,excellent,4,gas,100465,clean,automatic,fwd,full-size,sedan,red,wi
+8995,2007,ford,f-150,good,8,gas,119240,clean,other,4wd,full-size,truck,red,wi
+8995,2014,jeep,compass latitude,excellent,4,gas,120659,clean,automatic,4wd,full-size,SUV,grey,wi
+8995,2014,ford,escape,excellent,4,gas,140000,clean,automatic,fwd,mid-size,sedan,grey,wi
+8995,2019,ford,fiesta se,like new,4,gas,39900,clean,automatic,fwd,compact,sedan,grey,wi
+8995,2013,hyundai,elantra,excellent,4,gas,59582,clean,automatic,fwd,mid-size,sedan,grey,wi
+8995,2012,volkswagen,tiguan,excellent,4,gas,96771,clean,automatic,4wd,mid-size,SUV,blue,wi
+8995,2019,subaru,crosstrek premium,good,4,gas,24036,salvage,automatic,4wd,mid-size,SUV,blue,wi
+8995,2013,hyundai,elantra,excellent,4,gas,107104,clean,automatic,fwd,mid-size,sedan,black,wi
+8995,2014,ford,focus,excellent,4,gas,68261,clean,automatic,fwd,compact,sedan,black,wi
+8995,1999,chevrolet,tahoe,excellent,8,gas,149356,clean,automatic,4wd,full-size,SUV,black,wi
+8995,1999,chevrolet,tahoe,excellent,8,gas,149356,clean,automatic,4wd,full-size,SUV,black,wi
+9000,2016,kia,forte,like new,4,gas,18800,rebuilt,automatic,fwd,compact,sedan,white,wi
+9000,2009,ford,f-250 super duty,good,8,gas,141445,clean,automatic,4wd,full-size,pickup,red,wi
+9000,2009,ford,f-250 super duty,good,8,gas,141445,clean,automatic,4wd,full-size,pickup,red,wi
+9000,2008,chevrolet,avalanche,good,6,gas,146800,clean,automatic,4wd,full-size,pickup,blue,wi
+9000,2014,chrysler,300,like new,6,gas,160150,lien,automatic,rwd,full-size,sedan,black,wi
+9195,2008,acura,mdx,good,6,gas,128907,clean,automatic,4wd,full-size,SUV,black,wi
+9195,2008,acura,mdx,good,6,gas,128907,clean,automatic,4wd,full-size,SUV,black,wi
+9250,2012,chevrolet,malibu,excellent,4,gas,28350,clean,automatic,rwd,full-size,sedan,grey,wi
+9251,2012,nissan,rogue sl awd,good,4,gas,112626,clean,automatic,4wd,mid-size,SUV,grey,wi
+9446,2010,chevrolet,traverse lt,good,6,gas,101114,clean,automatic,fwd,full-size,SUV,grey,wi
+9495,2012,chevrolet,traverse lt,good,6,gas,100500,clean,automatic,4wd,full-size,SUV,white,wi
+9495,2011,toyota,camry,excellent,4,gas,93340,clean,automatic,fwd,full-size,sedan,blue,wi
+9495,2012,subaru,forester 2.5x premium,excellent,4,gas,118127,clean,automatic,4wd,mid-size,SUV,blue,wi
+9500,1996,ford,f-250,good,8,diesel,290000,clean,automatic,4wd,full-size,truck,white,wi
+9500,2012,chevrolet,equinox ltz,excellent,4,gas,112000,clean,automatic,fwd,mid-size,SUV,white,wi
+9500,2012,hyundai,tucson,good,4,gas,117000,clean,automatic,fwd,mid-size,SUV,silver,wi
+9500,2012,ford,taurus limited,excellent,6,gas,80700,clean,automatic,fwd,full-size,sedan,red,wi
+9500,2012,ford,taurus limited,excellent,6,gas,80700,clean,automatic,fwd,full-size,sedan,red,wi
+9500,2012,nissan,xterra pro-4x,excellent,6,gas,135000,clean,automatic,4wd,mid-size,SUV,grey,wi
+9500,2011,ford,expedition xlt,excellent,8,gas,165000,clean,automatic,4wd,full-size,SUV,blue,wi
+9500,2010,dodge,challenger se,good,6,gas,62698,clean,automatic,rwd,mid-size,coupe,blue,wi
+9500,2016,mitsubishi,outlander sport,like new,4,gas,96000,clean,automatic,fwd,mid-size,hatchback,black,wi
+9600,2016,subaru,impreza,excellent,4,gas,44000,rebuilt,automatic,4wd,mid-size,sedan,blue,wi
+9659,2016,kia,optima lx,good,4,gas,99041,clean,automatic,fwd,mid-size,sedan,blue,wi
+9659,2016,kia,optima lx,good,4,gas,99041,clean,automatic,fwd,mid-size,sedan,blue,wi
+9670,2012,chevrolet,equinox lt 2lt awd,good,4,gas,108381,clean,automatic,4wd,mid-size,SUV,green,wi
+9700,2016,dodge,grand caravan,excellent,6,gas,136000,clean,automatic,fwd,full-size,mini-van,grey,wi
+9700,2013,audi,a4 quattro,excellent,4,gas,95000,clean,automatic,4wd,full-size,sedan,black,wi
+9799,2011,honda,cr-v,excellent,4,gas,74110,clean,automatic,4wd,mid-size,SUV,brown,wi
+9800,2011,ford,e350 super duty,excellent,8,gas,166000,clean,automatic,rwd,full-size,van,white,wi
+9800,2014,honda,accord exl,good,4,gas,124625,clean,automatic,fwd,mid-size,sedan,red,wi
+9800,2006,ford,f-350,good,8,diesel,189234,clean,automatic,4wd,full-size,pickup,red,wi
+9800,2004,nissan,maxima sl,like new,6,gas,28000,clean,automatic,fwd,mid-size,sedan,brown,wi
+9800,2010,bmw,128i convertible,excellent,6,gas,87155,rebuilt,automatic,rwd,mid-size,convertible,blue,wi
+9850,2013,toyota,prius,excellent,4,gas,83175,clean,automatic,fwd,compact,hatchback,red,wi
+9863,2013,chevrolet,equinox lt,good,4,gas,90919,clean,automatic,fwd,mid-size,SUV,red,wi
+9900,2011,chevrolet,traverse,good,6,gas,135847,clean,automatic,4wd,full-size,SUV,red,wi
+9900,2009,honda,cr-v ex-l 4wd,good,4,gas,137909,clean,automatic,4wd,mid-size,SUV,red,wi
+9900,2016,chevrolet,cruze lt limited,good,4,gas,38894,clean,automatic,fwd,mid-size,sedan,red,wi
+9900,2008,toyota,highlander,excellent,6,gas,152200,clean,automatic,4wd,mid-size,SUV,blue,wi
+9950,2012,ram,1500 big horn,good,8,gas,249414,clean,automatic,4wd,full-size,truck,green,wi
+9974,2012,ford,econoline cargo van,good,8,gas,161062,clean,automatic,rwd,mid-size,van,white,wi
+9974,2012,ford,econoline cargo van,good,8,gas,161041,clean,automatic,rwd,mid-size,van,white,wi
+9974,2012,ford,econoline cargo van,good,8,gas,161062,clean,automatic,rwd,mid-size,van,white,wi
+9975,2016,ford,escape,excellent,4,gas,114114,clean,automatic,4wd,full-size,SUV,blue,wi
+9975,2016,ford,escape,excellent,4,gas,114114,clean,automatic,4wd,full-size,SUV,blue,wi
+9980,2016,ford,fiesta s,excellent,4,gas,41457,clean,automatic,fwd,compact,hatchback,white,wi
+9980,2016,ford,fiesta s,excellent,4,gas,41457,clean,automatic,fwd,compact,hatchback,white,wi
+9980,2016,ford,fiesta s,excellent,4,gas,41457,clean,automatic,fwd,compact,hatchback,white,wi
+9990,2010,dodge,dakota,good,6,gas,120971,clean,automatic,4wd,full-size,truck,white,wi
+9990,2007,toyota,tacoma,excellent,6,gas,225000,clean,automatic,4wd,full-size,truck,red,wi
+9990,2007,toyota,tacoma,excellent,6,gas,225000,clean,automatic,4wd,full-size,truck,red,wi
+9995,2014,chevrolet,cruze,excellent,4,gas,61391,clean,automatic,fwd,compact,sedan,silver,wi
+9995,2015,mitsubishi,lancer,excellent,4,gas,45425,clean,automatic,fwd,compact,sedan,silver,wi
+9995,2011,chevrolet,silverado 1500,good,8,gas,210865,clean,automatic,4wd,full-size,truck,silver,wi
+9995,2012,subaru,impreza sedan,excellent,4,gas,91492,clean,automatic,4wd,compact,sedan,red,wi
+9995,2012,ford,fusion,excellent,4,gas,73839,clean,automatic,fwd,full-size,sedan,red,wi
+9995,2011,toyota,camry,excellent,4,gas,115724,clean,automatic,fwd,mid-size,sedan,grey,wi
+9995,2012,honda,civic,excellent,4,gas,92113,clean,automatic,fwd,mid-size,sedan,grey,wi
+9995,2014,nissan,murano,good,6,gas,116139,clean,automatic,4wd,full-size,SUV,grey,wi
+9995,2006,ram,2500 cummins,excellent,6,diesel,192000,clean,automatic,4wd,full-size,pickup,custom,wi
+9995,2011,ford,escape,excellent,4,hybrid,60306,clean,automatic,4wd,mid-size,SUV,blue,wi
+9995,2011,honda,odyssey,excellent,6,gas,149292,clean,automatic,fwd,full-size,mini-van,blue,wi
+9995,2014,dodge,dart,excellent,4,gas,45042,clean,automatic,fwd,mid-size,sedan,blue,wi
+9995,2015,ford,c-max hybrid,excellent,4,hybrid,81998,clean,automatic,fwd,mid-size,sedan,black,wi
+9995,2011,acura,rl,excellent,6,gas,152000,clean,automatic,4wd,full-size,sedan,black,wi
+9995,1994,cadillac,deville,like new,8,gas,61450,clean,automatic,fwd,full-size,sedan,black,wi
+9995,1994,cadillac,deville,like new,8,gas,61450,clean,automatic,fwd,full-size,sedan,black,wi
+9995,2012,honda,accord se,good,4,gas,103134,clean,automatic,fwd,full-size,sedan,black,wi
+9995,2011,buick,lacrosse cxl,excellent,6,gas,62000,clean,automatic,fwd,full-size,sedan,black,wi
+9999,2012,ford,escape xlt 4x4,excellent,4,gas,63000,clean,automatic,4wd,compact,SUV,blue,wi
+9999,2007,chevrolet,silverado 1500,good,8,gas,182000,clean,automatic,4wd,full-size,truck,black,wi
+10000,2011,ford,edge limited,excellent,6,gas,160000,clean,automatic,4wd,mid-size,SUV,white,wi
+10000,2013,chevrolet,equniox lt,good,4,gas,90919,clean,automatic,fwd,mid-size,SUV,red,wi
+10000,2009,ford,f350,good,10,gas,200000,clean,automatic,4wd,full-size,pickup,grey,wi
+10000,2015,chevrolet,malibu ls,excellent,4,gas,87500,lien,automatic,fwd,full-size,sedan,blue,wi
+10000,2002,chevrolet,tahoe,excellent,5,gas,216000,clean,automatic,4wd,full-size,SUV,blue,wi
+10000,2012,ford,explorer,excellent,6,gas,119950,rebuilt,automatic,4wd,full-size,SUV,blue,wi
+10250,2013,honda,fit sport hatchback,excellent,4,gas,69000,clean,automatic,fwd,sub-compact,hatchback,white,wi
+10295,2013,ford,escape sel,like new,4,gas,112282,clean,automatic,fwd,mid-size,SUV,white,wi
+10395,2013,ford,fusion titanium,excellent,4,gas,105844,clean,automatic,4wd,full-size,sedan,white,wi
+10400,2011,toyota,rav4 v6 4wd,good,6,gas,137837,clean,automatic,4wd,mid-size,SUV,brown,wi
+10427,2015,hyundai,elantra limited,good,4,gas,55909,clean,automatic,fwd,mid-size,sedan,red,wi
+10500,2011,ford,expedition limited,excellent,8,gas,148000,clean,automatic,4wd,full-size,SUV,white,wi
+10500,2002,ford,f350 xlt diesel 4x4,good,8,diesel,126462,clean,automatic,4wd,full-size,truck,white,wi
+10500,2004,ford,f150,good,8,gas,219000,clean,automatic,4wd,full-size,truck,white,wi
+10500,2012,nissan,murano sl,excellent,6,gas,86100,clean,manual,4wd,mid-size,SUV,silver,wi
+10500,2007,ford,f-150 fx4,good,8,gas,152593,clean,automatic,4wd,full-size,truck,red,wi
+10500,2014,mazda,cx-5,excellent,4,gas,139000,clean,automatic,4wd,sub-compact,SUV,red,wi
+10500,2013,hyundai,tucson,excellent,4,gas,90000,clean,automatic,4wd,mid-size,SUV,black,wi
+10515,2012,chevrolet,equinox ls,good,4,gas,51193,clean,automatic,fwd,mid-size,SUV,brown,wi
+10595,2009,toyota,matrix s,like new,4,gas,32300,clean,automatic,fwd,compact,sedan,silver,wi
+10595,2018,ford,transit connect xlt,excellent,4,gas,106700,clean,automatic,fwd,full-size,mini-van,red,wi
+10633,2015,ford,edge se,good,4,gas,142776,clean,automatic,fwd,mid-size,SUV,grey,wi
+10684,2017,kia,forte,excellent,4,gas,75964,clean,automatic,fwd,mid-size,sedan,red,wi
+10750,2013,chrysler,town & country,like new,6,gas,80138,clean,automatic,fwd,full-size,mini-van,red,wi
+10800,2015,ford,transit wagon low roof xlt,excellent,8,gas,162000,clean,automatic,rwd,full-size,van,silver,wi
+10900,2013,bmw,3-series,good,5,gas,156348,clean,manual,4wd,mid-size,coupe,silver,wi
+10900,2000,bmw,m roadster,good,6,gas,121187,clean,manual,rwd,mid-size,convertible,blue,wi
+10900,2008,jeep,wrangler,good,6,gas,232087,clean,automatic,4wd,full-size,SUV,black,wi
+10900,2015,audi,a3,excellent,4,gas,150000,clean,automatic,4wd,compact,sedan,black,wi
+10950,2009,chevrolet,express cargo van,good,8,gas,196611,clean,automatic,4wd,mid-size,van,white,wi
+10950,2008,toyota,highlander,excellent,6,gas,124000,clean,automatic,4wd,mid-size,SUV,grey,wi
+10985,2010,toyota,prius,excellent,4,hybrid,62622,clean,automatic,fwd,mid-size,sedan,black,wi
+10990,2016,dodge,dart,excellent,4,gas,95749,clean,automatic,fwd,mid-size,sedan,red,wi
+10995,2016,nissan,altima,excellent,4,gas,107986,clean,automatic,fwd,mid-size,sedan,white,wi
+10995,2012,buick,lacrosse premium,like new,6,gas,107600,clean,automatic,4wd,full-size,SUV,white,wi
+10995,2010,honda,crosstour,excellent,6,gas,149559,clean,automatic,4wd,full-size,SUV,white,wi
+10995,2011,chevrolet,silverado 1500,good,8,gas,208016,clean,automatic,4wd,full-size,truck,white,wi
+10995,2013,chrysler,town & country,like new,6,gas,87131,clean,automatic,fwd,full-size,mini-van,silver,wi
+10995,2015,chrysler,town country,good,6,gas,71359,rebuilt,automatic,fwd,full-size,mini-van,silver,wi
+10995,2009,chevrolet,silverado 1500,good,8,gas,194812,clean,automatic,4wd,full-size,truck,silver,wi
+10995,2014,hyundai,sonata hybrid,excellent,4,hybrid,93535,clean,automatic,fwd,mid-size,sedan,grey,wi
+10995,2010,lexus,is 250,excellent,6,gas,119218,clean,automatic,4wd,sub-compact,sedan,grey,wi
+10995,2011,toyota,highlander,good,6,gas,134342,clean,automatic,4wd,full-size,SUV,grey,wi
+10995,2013,honda,accord crosstour ex-l awd,good,6,gas,143172,clean,automatic,4wd,full-size,SUV,grey,wi
+10995,2007,chevrolet,silverado 1500,good,8,gas,192738,clean,automatic,4wd,full-size,truck,brown,wi
+10995,2014,hyundai,sonata hybrid,excellent,4,hybrid,87135,clean,automatic,fwd,mid-size,sedan,blue,wi
+10995,2009,lexus,is 250,excellent,6,gas,102000,clean,automatic,4wd,sub-compact,sedan,black,wi
+10995,2012,ford,edge sel,good,6,gas,130439,clean,automatic,4wd,mid-size,SUV,black,wi
+10999,2013,bmw,528i,excellent,4,gas,118740,clean,automatic,4wd,mid-size,sedan,black,wi
+11000,2013,nissan,altima,good,6,gas,101500,clean,automatic,fwd,full-size,sedan,blue,wi
+11111,2019,ford,fiesta se hatchback,like new,4,gas,32253,clean,automatic,fwd,compact,hatchback,silver,wi
+11207,2012,honda,odyssey touring,good,6,gas,134235,clean,automatic,fwd,full-size,mini-van,grey,wi
+11281,2008,bmw,3 series,good,6,gas,104080,clean,automatic,rwd,mid-size,convertible,black,wi
+11281,2008,bmw,3 series,good,6,gas,104080,clean,automatic,rwd,mid-size,convertible,black,wi
+11281,2008,bmw,3 series,good,6,gas,104080,clean,automatic,rwd,mid-size,convertible,black,wi
+11298,2015,chevrolet,malibu 2lt,good,4,gas,90586,clean,automatic,fwd,mid-size,sedan,black,wi
+11400,2010,toyota,tacoma,good,6,gas,171000,salvage,automatic,4wd,full-size,pickup,green,wi
+11450,2016,toyota,corolla,like new,4,gas,82222,clean,automatic,fwd,compact,sedan,blue,wi
+11488,2010,dodge,grand caravan,good,6,gas,39333,clean,automatic,fwd,full-size,van,silver,wi
+11495,2005,toyota,4runner,good,8,gas,101088,clean,automatic,4wd,full-size,SUV,white,wi
+11495,2013,chrysler,town & country,excellent,6,gas,90697,clean,automatic,fwd,full-size,mini-van,red,wi
+11495,2013,chrysler,town & country,excellent,6,gas,90697,clean,automatic,fwd,mid-size,mini-van,red,wi
+11500,2014,toyota,prius v,like new,4,hybrid,98732,clean,automatic,fwd,mid-size,hatchback,silver,wi
+11500,2014,ford,escape,like new,4,gas,62000,clean,automatic,fwd,mid-size,SUV,grey,wi
+11500,2015,ford,fusion se,good,4,gas,48398,clean,automatic,fwd,full-size,sedan,grey,wi
+11500,2013,ford,edge sel awd,excellent,6,gas,105000,clean,automatic,4wd,mid-size,SUV,brown,wi
+11500,2013,ford,edge sel awd,excellent,6,gas,105000,clean,automatic,4wd,mid-size,SUV,brown,wi
+11500,2017,jeep,compass sport,excellent,4,gas,63000,clean,automatic,fwd,full-size,SUV,black,wi
+11750,2003,chevrolet,silverado 2500hd duramax,good,8,diesel,250000,clean,automatic,4wd,full-size,pickup,green,wi
+11800,2016,chevrolet,impala,excellent,4,gas,67800,clean,automatic,fwd,mid-size,sedan,white,wi
+11900,2011,chevrolet,traverse,excellent,6,gas,64100,clean,automatic,4wd,full-size,SUV,silver,wi
+11900,2010,hyundai,genesis coupe,good,4,gas,67083,clean,automatic,rwd,mid-size,coupe,red,wi
+11900,2007,chevrolet,silverado 1500,good,8,gas,143186,clean,automatic,4wd,full-size,truck,red,wi
+11900,2015,ford,escape,good,4,gas,107557,clean,automatic,4wd,full-size,SUV,grey,wi
+11900,2016,mazda,3,excellent,4,gas,48700,lien,automatic,fwd,compact,coupe,grey,wi
+11900,2010,ford,explorer xlt,excellent,4,gas,49000,clean,automatic,4wd,full-size,SUV,brown,wi
+11940,2011,ford,econoline cargo van,good,8,gas,124256,clean,automatic,rwd,mid-size,van,white,wi
+11950,2010,gmc,sierra sle 1500 4x4,like new,8,gas,143000,clean,automatic,4wd,full-size,pickup,grey,wi
+11950,2010,gmc,sierra sle 1500 4x4,like new,8,gas,143000,clean,automatic,4wd,full-size,pickup,grey,wi
+11950,2010,gmc,sierra sle 1500 4x4,like new,8,gas,143000,clean,automatic,4wd,full-size,pickup,grey,wi
+11950,2007,chevrolet,avalanche 1500,good,8,gas,135111,clean,automatic,4wd,full-size,truck,black,wi
+11970,2014,ford,econoline cargo van,good,8,gas,168569,clean,automatic,rwd,mid-size,van,white,wi
+11970,2014,ford,econoline cargo van,good,8,gas,168569,clean,automatic,rwd,mid-size,van,white,wi
+11970,2014,ford,econoline cargo van,good,8,gas,168569,clean,automatic,rwd,mid-size,van,white,wi
+11988,2010,dodge,grand caravan,good,6,gas,35673,clean,automatic,fwd,full-size,van,custom,wi
+11995,2017,toyota,corolla,like new,4,gas,72501,clean,automatic,fwd,mid-size,sedan,white,wi
+11995,2016,nissan,altima,excellent,4,gas,99405,clean,automatic,fwd,mid-size,sedan,silver,wi
+11995,2011,cadillac,dts luxury,like new,8,gas,82042,clean,automatic,fwd,full-size,sedan,silver,wi
+11995,2011,cadillac,dts luxury,like new,8,gas,82042,clean,automatic,fwd,full-size,sedan,silver,wi
+11995,2012,toyota,camry xle,good,4,gas,73550,clean,automatic,fwd,full-size,sedan,grey,wi
+11995,2012,toyota,camry xle,good,4,gas,73550,clean,automatic,fwd,mid-size,sedan,grey,wi
+11995,2011,toyota,avalon,excellent,6,gas,127022,clean,automatic,fwd,full-size,sedan,custom,wi
+11995,2015,chevrolet,malibu,excellent,4,gas,69411,clean,automatic,fwd,mid-size,sedan,blue,wi
+11995,2015,chevrolet,equinox,like new,4,gas,50100,clean,automatic,fwd,full-size,SUV,blue,wi
+11995,2009,chevrolet,silverado 1500,good,8,gas,170684,clean,automatic,4wd,full-size,truck,blue,wi
+11995,2012,gmc,terrain sle,excellent,4,gas,80484,clean,automatic,fwd,mid-size,SUV,black,wi
+12000,2015,honda,accord lx,excellent,4,gas,101000,clean,automatic,fwd,full-size,sedan,silver,wi
+12000,2012,chevrolet,traverse lt,excellent,6,gas,64000,clean,automatic,fwd,mid-size,SUV,red,wi
+12000,2013,ford,mustang convertible,excellent,6,gas,64000,clean,automatic,rwd,compact,convertible,grey,wi
+12000,2010,mercedes-benz,benz gl450,excellent,8,gas,133000,clean,automatic,4wd,full-size,SUV,grey,wi
+12000,2015,buick,lacrosse,excellent,6,gas,86000,clean,automatic,fwd,full-size,sedan,black,wi
+12440,2012,honda,cr-v ex awd,good,4,gas,104187,clean,automatic,4wd,mid-size,SUV,silver,wi
+12450,2011,chevrolet,silverado 1500,good,8,gas,150959,clean,automatic,4wd,full-size,truck,blue,wi
+12473,2015,chevrolet,impala lt,good,4,gas,81143,clean,automatic,fwd,full-size,sedan,blue,wi
+12473,2015,chevrolet,impala lt,good,4,gas,81143,clean,automatic,fwd,full-size,sedan,blue,wi
+12495,2007,chevrolet,silverado 1500,excellent,8,gas,194000,clean,automatic,4wd,full-size,pickup,white,wi
+12500,2014,ford,fusion titanium awd,excellent,4,gas,38600,clean,automatic,4wd,full-size,sedan,silver,wi
+12500,2014,ford,fusion titanium awd,excellent,4,gas,38600,clean,automatic,4wd,full-size,sedan,silver,wi
+12500,2017,volkswagen,jetta 1.4t s,excellent,4,gas,22853,clean,automatic,fwd,mid-size,sedan,grey,wi
+12500,2011,ford,f150 supercrew cab,good,6,gas,175000,clean,automatic,4wd,full-size,truck,black,wi
+12541,2012,lincoln,mkx,good,6,gas,111268,clean,automatic,4wd,mid-size,SUV,grey,wi
+12700,2014,toyota,prius,excellent,4,hybrid,62639,clean,automatic,fwd,compact,hatchback,black,wi
+12700,2014,toyota,prius,excellent,4,hybrid,62639,clean,automatic,fwd,compact,hatchback,black,wi
+12700,2014,toyota,prius,excellent,4,hybrid,62639,clean,automatic,fwd,compact,hatchback,black,wi
+12757,2012,ford,econoline cargo van,good,8,gas,111955,clean,automatic,rwd,mid-size,van,white,wi
+12800,2006,chevrolet,silverado 2500,excellent,8,diesel,280000,clean,automatic,fwd,full-size,pickup,silver,wi
+12831,2015,ram,promaster city cargo van,good,4,gas,88077,clean,automatic,fwd,full-size,van,white,wi
+12831,2015,ram,promaster city cargo van,good,4,gas,88077,clean,automatic,fwd,full-size,van,white,wi
+12831,2015,ram,promaster city cargo van,good,4,gas,88077,clean,automatic,fwd,full-size,van,white,wi
+12890,2008,ford,f-350,good,8,gas,117866,clean,automatic,rwd,full-size,truck,white,wi
+12890,2008,ford,f-350,good,8,gas,117866,clean,automatic,rwd,full-size,truck,white,wi
+12900,2015,ford,escape se sport,excellent,4,gas,63000,clean,automatic,fwd,mid-size,SUV,white,wi
+12900,2004,ram,2500,good,6,gas,219381,clean,automatic,4wd,full-size,truck,grey,wi
+12900,2008,gmc,yukon xl denali,good,8,gas,93037,rebuilt,automatic,4wd,full-size,SUV,grey,wi
+12900,2011,honda,odyssey,excellent,6,gas,86590,clean,automatic,fwd,mid-size,mini-van,brown,wi
+12904,2017,ford,escape,excellent,4,gas,104603,clean,automatic,fwd,mid-size,SUV,yellow,wi
+12995,2017,chevrolet,equinox lt awd,good,4,gas,103140,clean,automatic,4wd,mid-size,SUV,white,wi
+12995,2012,lincoln,mkx,excellent,6,gas,106457,clean,automatic,4wd,mid-size,sedan,silver,wi
+12995,2007,lexus,gx 470,excellent,8,gas,157671,clean,automatic,4wd,full-size,SUV,silver,wi
+12995,2013,gmc,acadia,good,6,gas,119794,clean,automatic,4wd,full-size,SUV,silver,wi
+12995,2011,gmc,sierra 1500,good,8,gas,173392,clean,automatic,4wd,full-size,truck,silver,wi
+12995,2012,ram,1500,good,8,gas,181485,clean,automatic,4wd,full-size,truck,red,wi
+12995,2015,hyundai,sonata hybrid,excellent,4,hybrid,68676,clean,automatic,fwd,mid-size,sedan,grey,wi
+12995,2013,chevrolet,tahoe,good,8,gas,154686,clean,automatic,4wd,full-size,SUV,grey,wi
+12995,2015,dodge,journey,like new,6,gas,74345,clean,automatic,4wd,full-size,SUV,black,wi
+12995,2010,toyota,tacoma,like new,6,gas,232940,clean,manual,4wd,mid-size,truck,black,wi
+12995,2011,chevrolet,suburban,good,8,gas,198492,clean,automatic,4wd,full-size,SUV,black,wi
+13000,2010,gmc,sierra,good,8,gas,150000,clean,automatic,4wd,full-size,pickup,white,wi
+13000,2007,mercedes-benz,benz ml63 amg,excellent,8,gas,175900,clean,automatic,4wd,mid-size,SUV,silver,wi
+13030,2013,ford,econoline cargo van,good,8,gas,137028,clean,automatic,rwd,mid-size,van,custom,wi
+13030,2013,ford,econoline cargo van,good,8,gas,137028,clean,automatic,rwd,mid-size,van,custom,wi
+13265,2014,chevrolet,impala,excellent,4,gas,76756,clean,automatic,fwd,full-size,sedan,red,wi
+13300,2014,ford,explorer,good,6,gas,107000,lien,automatic,4wd,full-size,SUV,black,wi
+13495,2013,honda,civic ex,like new,4,gas,80100,clean,automatic,fwd,full-size,sedan,silver,wi
+13495,2013,honda,civic ex,like new,4,gas,80100,clean,automatic,fwd,full-size,sedan,silver,wi
+13500,2015,ford,escape,like new,4,gas,52876,clean,automatic,fwd,full-size,SUV,white,wi
+13500,2014,chrysler,town & country,good,6,gas,60189,clean,automatic,fwd,full-size,mini-van,white,wi
+13500,2012,infiniti,g37x sedan 4d,good,6,gas,84000,clean,automatic,4wd,full-size,sedan,silver,wi
+13500,2016,buick,encore,excellent,4,gas,51805,rebuilt,automatic,4wd,compact,SUV,grey,wi
+13500,2013,mini,cooper convertible,like new,4,gas,5900,clean,automatic,fwd,sub-compact,convertible,blue,wi
+13500,2004,jeep,wrangler,excellent,6,gas,116934,clean,manual,4wd,mid-size,SUV,blue,wi
+13500,2011,gmc,yukon xl denali,good,8,gas,156000,clean,automatic,4wd,full-size,SUV,black,wi
+13500,2011,audi,q7 tdi,like new,6,diesel,137000,clean,automatic,4wd,full-size,SUV,black,wi
+13500,2019,chevrolet,malibu lt,like new,4,gas,37000,clean,automatic,fwd,mid-size,sedan,black,wi
+13654,2011,toyota,rav4 v6 limited,excellent,6,gas,99964,clean,automatic,fwd,full-size,SUV,brown,wi
+13654,2011,toyota,rav4 v6 limited,excellent,6,gas,99964,clean,automatic,fwd,full-size,SUV,brown,wi
+13685,2017,toyota,corolla le,good,4,gas,11581,clean,automatic,fwd,mid-size,sedan,grey,wi
+13700,2012,chevrolet,express,good,8,gas,76058,clean,automatic,rwd,full-size,van,white,wi
+13775,2015,chevrolet,equinox,excellent,4,gas,26574,rebuilt,automatic,4wd,compact,SUV,silver,wi
+13788,2010,chevrolet,express cargo van,good,8,gas,187867,clean,automatic,4wd,mid-size,van,white,wi
+13800,2015,chevrolet,equinox,excellent,4,gas,26574,rebuilt,automatic,4wd,compact,SUV,silver,wi
+13870,2012,ford,econoline cargo van,good,8,gas,92932,clean,automatic,rwd,mid-size,van,white,wi
+13870,2012,ford,econoline cargo van,good,8,gas,92932,clean,automatic,rwd,mid-size,van,white,wi
+13875,2013,gmc,sierra,good,8,gas,146973,clean,automatic,rwd,full-size,pickup,red,wi
+13888,2016,kia,optima ex,good,4,gas,35056,clean,automatic,fwd,mid-size,sedan,white,wi
+13888,2016,kia,optima ex,good,4,gas,35056,clean,automatic,fwd,mid-size,sedan,white,wi
+13900,2013,acura,rdx awd,excellent,6,gas,113000,clean,automatic,4wd,mid-size,SUV,white,wi
+13900,2006,jaguar,xk-series,good,8,gas,86376,clean,automatic,rwd,mid-size,convertible,silver,wi
+13900,2014,honda,ridgeline,good,6,gas,163525,clean,automatic,4wd,full-size,truck,silver,wi
+13900,2013,cadillac,srx,good,6,gas,71248,clean,automatic,fwd,full-size,SUV,silver,wi
+13900,2014,honda,odyssey,good,6,gas,134633,clean,automatic,fwd,full-size,van,blue,wi
+13900,2017,ford,escape,good,4,gas,71188,clean,automatic,rwd,full-size,SUV,blue,wi
+13900,2010,chevrolet,silverado 1500,good,8,gas,153547,clean,automatic,4wd,full-size,truck,black,wi
+13950,2013,ford,econoline cargo van,good,8,gas,114747,clean,automatic,rwd,mid-size,van,custom,wi
+13950,2013,ford,econoline cargo van,good,8,gas,114747,clean,automatic,rwd,mid-size,van,custom,wi
+13977,2015,kia,soul exclaim,excellent,4,gas,54000,clean,automatic,fwd,compact,hatchback,silver,wi
+13980,2016,ford,fusion,excellent,4,gas,58094,rebuilt,automatic,4wd,mid-size,sedan,black,wi
+13981,2013,ford,econoline cargo van,good,8,gas,120284,clean,automatic,rwd,mid-size,van,silver,wi
+13981,2013,ford,econoline cargo van,good,8,gas,120284,clean,automatic,rwd,mid-size,van,silver,wi
+13990,2007,chevrolet,express cargo van,good,8,gas,137248,clean,automatic,4wd,mid-size,van,white,wi
+13990,2007,chevrolet,express cargo van,good,8,gas,137248,clean,automatic,4wd,mid-size,van,white,wi
+13990,2016,jeep,renegade,like new,4,gas,32000,clean,manual,4wd,mid-size,SUV,orange,wi
+13995,2014,chevrolet,express 3500,good,8,gas,112307,clean,automatic,rwd,full-size,van,white,wi
+13995,2011,chevrolet,silverado 2500hd,good,8,gas,223470,clean,automatic,4wd,full-size,truck,white,wi
+13995,2012,chevrolet,silverado 1500,good,8,gas,199200,clean,automatic,4wd,full-size,truck,white,wi
+13995,2011,chevrolet,silverado 1500,good,8,gas,177139,clean,automatic,4wd,full-size,truck,white,wi
+13995,2013,gmc,sierra 1500,good,8,gas,201141,clean,automatic,4wd,full-size,truck,white,wi
+13995,2015,hyundai,sonata,excellent,4,gas,74339,clean,automatic,fwd,full-size,sedan,silver,wi
+13995,2018,ford,escape,excellent,4,gas,113558,clean,automatic,4wd,mid-size,SUV,silver,wi
+13995,2017,ford,escape,excellent,4,gas,100604,clean,automatic,4wd,mid-size,SUV,silver,wi
+13995,2013,ford,edge sport awd,good,6,gas,135246,clean,automatic,4wd,mid-size,SUV,silver,wi
+13995,2015,dodge,grand caravan,excellent,6,gas,64404,clean,automatic,fwd,full-size,mini-van,grey,wi
+13995,2012,ford,f-150,good,6,gas,188406,clean,automatic,4wd,full-size,truck,grey,wi
+13995,2015,kia,optima,excellent,4,gas,85179,clean,automatic,fwd,mid-size,sedan,blue,wi
+13995,2015,hyundai,sonata hybrid,excellent,4,hybrid,49248,clean,automatic,fwd,mid-size,sedan,blue,wi
+13995,2020,toyota,corolla,good,4,gas,26000,clean,automatic,fwd,mid-size,sedan,blue,wi
+13995,2015,kia,optima,excellent,4,gas,77843,clean,automatic,fwd,mid-size,sedan,black,wi
+13995,2017,subaru,legacy,excellent,4,gas,82191,clean,automatic,4wd,mid-size,sedan,black,wi
+13995,2014,kia,optima ex premium,good,4,gas,47605,clean,automatic,fwd,mid-size,sedan,black,wi
+13995,2010,toyota,highlander,excellent,6,gas,70911,clean,automatic,4wd,full-size,SUV,black,wi
+13995,2016,ford,fusion,excellent,4,gas,58094,rebuilt,automatic,4wd,mid-size,sedan,black,wi
+13998,2017,chevrolet,malibu,excellent,4,gas,46364,clean,automatic,fwd,mid-size,sedan,white,wi
+13999,2000,jeep,wrangler sport,excellent,6,gas,128471,clean,automatic,4wd,mid-size,SUV,white,wi
+13999,2013,gmc,sierra,good,8,gas,146973,clean,automatic,rwd,full-size,pickup,red,wi
+13999,2016,dodge,grand caravan,like new,6,gas,33223,clean,automatic,fwd,full-size,mini-van,black,wi
+14000,2000,ford,f250,excellent,8,diesel,189000,clean,automatic,4wd,full-size,truck,white,wi
+14000,2011,volvo,c-30 r-design t-5,like new,5,gas,32000,clean,automatic,fwd,compact,hatchback,silver,wi
+14000,2007,ford,f-250 super duty,good,8,diesel,145000,rebuilt,automatic,4wd,full-size,truck,red,wi
+14200,2013,bmw,x5,good,6,diesel,96000,clean,automatic,4wd,full-size,SUV,white,wi
+14274,2016,chrysler,town & country touring,good,6,gas,66083,clean,automatic,fwd,full-size,mini-van,grey,wi
+14396,2018,kia,optima lx,good,4,gas,12108,clean,automatic,fwd,full-size,sedan,grey,wi
+14439,2019,chevrolet,sonic,excellent,4,gas,21097,clean,automatic,fwd,compact,hatchback,blue,wi
+14450,2015,dodge,charger sxt awd,like new,6,gas,70132,rebuilt,automatic,4wd,full-size,sedan,red,wi
+14450,2015,dodge,charger sxt awd,like new,6,gas,70132,rebuilt,automatic,4wd,full-size,sedan,red,wi
+14487,2015,chevrolet,colorado,good,4,gas,90251,clean,automatic,rwd,full-size,truck,white,wi
+14487,2015,chevrolet,colorado,good,4,gas,90251,clean,automatic,rwd,full-size,truck,white,wi
+14487,2015,chevrolet,colorado,good,4,gas,90251,clean,automatic,rwd,full-size,truck,white,wi
+14490,2014,ford,econoline cargo van,good,8,gas,127688,clean,automatic,rwd,mid-size,van,custom,wi
+14490,2014,ford,econoline cargo van,good,8,gas,127688,clean,automatic,rwd,mid-size,van,custom,wi
+14500,2004,chevrolet,express 1500,excellent,8,gas,118000,clean,automatic,fwd,full-size,van,white,wi
+14500,2004,chevrolet,express 1500,excellent,8,gas,118000,clean,automatic,fwd,full-size,van,white,wi
+14500,2007,ram,2500 diesel,good,6,diesel,231000,clean,automatic,4wd,full-size,truck,red,wi
+14595,2014,gmc,acadia,excellent,6,gas,100743,clean,automatic,4wd,full-size,SUV,grey,wi
+14681,2013,dodge,charger r/t,good,8,gas,102097,clean,automatic,rwd,full-size,sedan,black,wi
+14699,2016,chevrolet,impala,excellent,6,gas,36821,clean,automatic,fwd,full-size,sedan,silver,wi
+14699,2016,chevrolet,impala,excellent,6,gas,36821,clean,automatic,fwd,full-size,sedan,silver,wi
+14798,2012,lexus,rx 350 awd,good,6,gas,117620,clean,automatic,4wd,mid-size,SUV,grey,wi
+14879,2016,ford,escape titanium 4wd,good,4,gas,79123,clean,automatic,4wd,mid-size,SUV,red,wi
+14898,2019,chevrolet,trax lt,like new,4,gas,26187,clean,automatic,fwd,mid-size,SUV,silver,wi
+14900,2013,gmc,acadia,good,6,gas,127515,clean,automatic,4wd,full-size,SUV,red,wi
+14900,2016,nissan,rogue sv awd,excellent,4,gas,52000,clean,automatic,4wd,mid-size,SUV,grey,wi
+14900,2015,chevrolet,traverse,excellent,6,gas,84900,clean,automatic,4wd,mid-size,SUV,blue,wi
+14900,2010,ram,1500,good,8,gas,173120,clean,automatic,4wd,full-size,truck,black,wi
+14975,2013,mercedes-benz,e-class,excellent,6,gas,129400,clean,automatic,rwd,mid-size,convertible,white,wi
+14977,2013,buick,lacrosse,excellent,4,gas,11000,clean,automatic,fwd,full-size,sedan,white,wi
+14977,2014,chevrolet,impala 2lt v6,good,6,gas,80000,clean,automatic,fwd,full-size,sedan,blue,wi
+14977,2010,lincoln,town car signature ltd,good,8,gas,61000,clean,automatic,rwd,full-size,sedan,black,wi
+14993,2013,gmc,acadia,excellent,6,gas,96779,clean,automatic,4wd,full-size,SUV,red,wi
+14995,2017,chevrolet,equinox,excellent,4,gas,80432,clean,automatic,fwd,mid-size,SUV,white,wi
+14995,2008,ford,f-250 sd,good,8,diesel,213288,clean,automatic,4wd,full-size,truck,white,wi
+14995,2016,gmc,terrain sle-1 awd,good,4,gas,71831,clean,automatic,4wd,mid-size,SUV,red,wi
+14995,2017,subaru,forester,excellent,4,gas,103715,clean,automatic,4wd,full-size,SUV,grey,wi
+14995,2016,honda,civic,excellent,4,gas,46427,clean,automatic,fwd,mid-size,sedan,grey,wi
+14995,2016,jeep,patriot,excellent,4,gas,24780,rebuilt,automatic,4wd,compact,SUV,grey,wi
+14995,2015,ford,taurus,excellent,6,gas,61630,clean,automatic,4wd,full-size,sedan,black,wi
+14995,2016,cadillac,xts,excellent,6,gas,112059,clean,automatic,fwd,mid-size,sedan,black,wi
+14995,2018,ford,escape,excellent,4,gas,84040,clean,automatic,fwd,mid-size,SUV,black,wi
+14998,2017,chevrolet,cruze,excellent,4,gas,19402,clean,automatic,fwd,compact,sedan,white,wi
+14999,2002,jeep,wrangler,excellent,6,gas,91838,clean,automatic,4wd,mid-size,SUV,green,wi
+15000,2018,ford,fusion titanium hybrid,excellent,4,hybrid,45160,clean,automatic,fwd,full-size,sedan,grey,wi
+15000,2016,gmc,terrain slt awd,like new,6,gas,96355,clean,automatic,4wd,mid-size,SUV,black,wi
+15125,2016,ford,transit cargo van,good,6,gas,157605,clean,automatic,rwd,mid-size,van,white,wi
+15125,2016,ford,transit cargo van,good,6,gas,157605,clean,automatic,rwd,mid-size,van,white,wi
+15250,2018,dodge,charger sxt,excellent,6,gas,75260,rebuilt,automatic,rwd,full-size,sedan,black,wi
+15300,2017,toyota,prius,excellent,4,hybrid,47900,lien,automatic,fwd,mid-size,hatchback,blue,wi
+15777,2011,chevrolet,express cargo van,good,8,gas,134177,clean,automatic,4wd,mid-size,van,white,wi
+15784,2015,chevrolet,colorado,good,4,gas,109345,clean,automatic,4wd,full-size,truck,white,wi
+15784,2015,chevrolet,colorado,good,4,gas,109345,clean,automatic,4wd,full-size,truck,white,wi
+15784,2015,chevrolet,colorado,good,4,gas,109345,clean,automatic,4wd,full-size,truck,white,wi
+15788,2012,chevrolet,express cargo van,good,8,gas,145996,clean,automatic,4wd,mid-size,van,white,wi
+15830,2011,toyota,highlander limited,good,6,gas,110305,clean,automatic,4wd,full-size,SUV,white,wi
+15830,2014,ford,econoline cargo van,good,8,gas,100564,clean,automatic,rwd,mid-size,van,custom,wi
+15830,2014,ford,econoline cargo van,good,8,gas,100564,clean,automatic,rwd,mid-size,van,custom,wi
+15888,2013,chevrolet,express cargo van,good,8,gas,168353,clean,automatic,4wd,mid-size,van,white,wi
+15888,2013,chevrolet,express cargo van,good,8,gas,168353,clean,automatic,4wd,mid-size,van,white,wi
+15888,2013,chevrolet,express cargo van,good,8,gas,168353,clean,automatic,4wd,mid-size,van,white,wi
+15900,2016,honda,hr-v,good,4,gas,42779,clean,automatic,4wd,full-size,SUV,white,wi
+15900,2013,honda,pilot ex,excellent,6,gas,52400,clean,automatic,fwd,mid-size,SUV,white,wi
+15900,2016,honda,civic,excellent,4,gas,47158,clean,automatic,fwd,compact,coupe,black,wi
+15900,2014,mercedes-benz,benz c300,excellent,6,gas,60158,clean,automatic,4wd,full-size,sedan,black,wi
+15920,2016,dodge,grand caravan,excellent,6,gas,32463,clean,automatic,fwd,mid-size,mini-van,blue,wi
+15950,2006,chevrolet,silverado 3500,good,8,gas,109060,clean,automatic,4wd,full-size,truck,brown,wi
+15986,2018,hyundai,elantra,excellent,4,gas,38828,clean,automatic,fwd,mid-size,sedan,white,wi
+15988,2017,honda,accord hybrid,good,4,hybrid,42963,clean,automatic,fwd,full-size,sedan,white,wi
+15988,2017,honda,accord hybrid,good,4,hybrid,42963,clean,automatic,fwd,full-size,sedan,white,wi
+15995,2014,honda,cr-v,excellent,4,gas,72288,clean,automatic,4wd,mid-size,SUV,white,wi
+15995,2014,dodge,journey,like new,6,gas,45184,clean,automatic,4wd,mid-size,SUV,white,wi
+15995,2014,ford,e350 xl,good,8,gas,54525,clean,automatic,rwd,full-size,wagon,white,wi
+15995,2014,ram,1500,good,8,gas,164918,clean,automatic,4wd,full-size,truck,white,wi
+15995,2015,ford,transit 350 xlt,excellent,6,gas,73396,clean,automatic,rwd,full-size,wagon,silver,wi
+15995,2015,ford,transit 350 xlt,excellent,6,gas,73396,clean,automatic,rwd,full-size,wagon,silver,wi
+15995,2017,dodge,grand caravan,excellent,6,gas,67277,clean,automatic,fwd,full-size,mini-van,red,wi
+15995,2017,kia,optima,like new,4,gas,17625,clean,automatic,fwd,full-size,sedan,purple,wi
+15995,2019,kia,optima,excellent,4,gas,63355,clean,automatic,fwd,mid-size,sedan,grey,wi
+15995,2011,audi,a8,excellent,8,gas,96600,salvage,automatic,4wd,full-size,sedan,grey,wi
+15995,2015,honda,odyssey ex,good,6,gas,70644,clean,automatic,fwd,full-size,mini-van,grey,wi
+15995,2011,chevrolet,silverado 1500,good,8,gas,169346,clean,automatic,4wd,full-size,truck,blue,wi
+15995,2017,honda,civic sedan,excellent,4,gas,43887,clean,automatic,fwd,compact,sedan,black,wi
+15998,2017,honda,civic,excellent,4,gas,71127,clean,automatic,fwd,mid-size,sedan,blue,wi
+16000,2013,ford,f150 supercab xlt 4x4,good,6,gas,157990,clean,automatic,4wd,full-size,truck,red,wi
+16341,2014,ford,econoline cargo van,good,8,gas,77221,clean,automatic,rwd,mid-size,van,white,wi
+16341,2014,ford,econoline cargo van,good,8,gas,77221,clean,automatic,rwd,mid-size,van,white,wi
+16426,2017,chevrolet,colorado,good,4,gas,93951,clean,automatic,rwd,full-size,truck,white,wi
+16426,2017,chevrolet,colorado,good,4,gas,93951,clean,automatic,rwd,full-size,truck,white,wi
+16426,2017,chevrolet,colorado,good,4,gas,93951,clean,automatic,rwd,full-size,truck,white,wi
+16490,2014,ford,econoline cargo van,good,8,gas,71658,clean,automatic,rwd,mid-size,van,custom,wi
+16490,2014,ford,econoline cargo van,good,8,gas,71658,clean,automatic,rwd,mid-size,van,custom,wi
+16500,2013,honda,civic si sedan 4d,excellent,4,diesel,68964,clean,manual,fwd,compact,sedan,black,wi
+16551,2016,chevrolet,colorado,good,4,gas,59968,clean,automatic,rwd,full-size,truck,white,wi
+16551,2016,chevrolet,colorado,good,4,gas,59968,clean,automatic,rwd,full-size,truck,white,wi
+16551,2016,chevrolet,colorado,good,4,gas,59968,clean,automatic,rwd,full-size,truck,white,wi
+16570,2018,nissan,altima sr,good,4,gas,22438,clean,automatic,fwd,full-size,sedan,black,wi
+16768,2017,chevrolet,traverse lt awd,good,6,gas,96862,clean,automatic,4wd,full-size,SUV,silver,wi
+16768,2017,chevrolet,traverse lt awd,good,6,gas,96862,clean,automatic,4wd,full-size,SUV,silver,wi
+16800,2013,lexus,rx 350,good,6,gas,116000,clean,automatic,4wd,full-size,SUV,black,wi
+16888,2008,chevrolet,express cargo van,good,8,gas,99898,clean,automatic,4wd,mid-size,van,white,wi
+16900,2016,chevrolet,colorado,good,4,gas,61231,clean,automatic,rwd,full-size,truck,white,wi
+16900,2017,toyota,camry le,like new,4,gas,9910,clean,automatic,fwd,mid-size,sedan,white,wi
+16900,2011,ford,f-150,good,6,gas,74500,clean,automatic,4wd,full-size,pickup,white,wi
+16900,2016,rover,discovery sport se,excellent,4,gas,98900,clean,automatic,4wd,mid-size,SUV,grey,wi
+16900,2019,chevrolet,impala lt,good,4,gas,34000,clean,automatic,fwd,full-size,sedan,brown,wi
+16900,2010,cadillac,escalade,good,8,gas,148448,clean,automatic,4wd,full-size,SUV,black,wi
+16900,2011,cadillac,escalade,excellent,8,gas,140340,clean,automatic,4wd,full-size,SUV,black,wi
+16916,2018,chevrolet,equinox,excellent,4,gas,30802,rebuilt,automatic,4wd,mid-size,SUV,grey,wi
+16950,2015,chevrolet,express 3500 cargo van,good,8,gas,121111,clean,automatic,rwd,full-size,van,white,wi
+16950,2017,lincoln,mkz,excellent,4,gas,28001,rebuilt,automatic,fwd,full-size,sedan,silver,wi
+16990,2006,chevrolet,express cargo van,good,8,gas,176894,clean,automatic,rwd,full-size,truck,white,wi
+16995,2013,subaru,impreza wagon wrx,excellent,4,gas,99861,clean,manual,4wd,full-size,wagon,white,wi
+16995,2009,toyota,fj cruiser,good,6,gas,141161,clean,automatic,4wd,mid-size,SUV,white,wi
+16995,2017,chevrolet,malibu,excellent,4,gas,33008,clean,automatic,fwd,mid-size,sedan,red,wi
+16995,2017,dodge,grand caravan,excellent,6,gas,71386,clean,automatic,fwd,full-size,mini-van,grey,wi
+16995,2010,harley-davidson,4x4,excellent,8,gas,105000,clean,automatic,4wd,full-size,pickup,custom,wi
+16995,2016,mazda,cx-5 grand touring awd,good,4,gas,72117,clean,automatic,4wd,mid-size,SUV,brown,wi
+16995,2017,honda,civic sedan,excellent,4,gas,14935,clean,automatic,fwd,compact,sedan,black,wi
+16995,2017,chevrolet,malibu lt,excellent,4,gas,20616,clean,automatic,fwd,mid-size,sedan,black,wi
+17450,2017,lincoln,mkz,excellent,4,gas,28001,rebuilt,automatic,fwd,full-size,sedan,silver,wi
+17463,2013,chevrolet,express cargo van,good,8,gas,74884,clean,automatic,rwd,mid-size,van,white,wi
+17463,2013,chevrolet,express cargo van,good,8,gas,74884,clean,automatic,rwd,mid-size,van,white,wi
+17463,2013,chevrolet,express cargo van,good,8,gas,74884,clean,automatic,rwd,mid-size,van,white,wi
+17494,2016,buick,lacrosse,excellent,6,gas,21532,clean,automatic,fwd,mid-size,sedan,black,wi
+17500,2015,toyota,rav4,like new,4,gas,43380,clean,automatic,4wd,mid-size,SUV,red,wi
+17500,2011,gmc,yukon sle,excellent,8,gas,90427,clean,automatic,4wd,full-size,SUV,grey,wi
+17663,2011,chevrolet,silverado 1500 lt 4wd,good,8,gas,133915,clean,automatic,4wd,full-size,truck,blue,wi
+17675,2010,ford,f-150,excellent,8,gas,90270,rebuilt,automatic,4wd,full-size,pickup,white,wi
+17895,2015,ram,1500,like new,8,gas,68225,rebuilt,automatic,4wd,full-size,truck,black,wi
+17900,2016,chevrolet,silverado,excellent,8,gas,67819,rebuilt,automatic,rwd,full-size,pickup,white,wi
+17900,2015,ford,f-250 4wd 1owner rust free texas truck,excellent,8,gas,173935,clean,automatic,4wd,full-size,truck,white,wi
+17900,2016,chevrolet,silverado,excellent,8,gas,67819,rebuilt,automatic,rwd,full-size,pickup,white,wi
+17900,2018,gmc,terrain,good,4,gas,34955,clean,automatic,fwd,full-size,SUV,silver,wi
+17900,2015,honda,pilot ex-l 4wd,excellent,6,gas,96000,clean,automatic,4wd,full-size,SUV,red,wi
+17900,2015,honda,pilot ex-l 4wd,excellent,6,gas,96000,clean,automatic,4wd,full-size,SUV,red,wi
+17900,2015,honda,pilot ex-l 4wd,excellent,6,gas,96000,clean,automatic,4wd,full-size,SUV,red,wi
+17900,2008,gmc,sierra 2500hd,excellent,8,gas,130750,clean,automatic,4wd,full-size,pickup,red,wi
+17900,2012,chevrolet,camaro,good,6,gas,27652,clean,automatic,rwd,mid-size,coupe,black,wi
+17950,2017,subaru,outback 2.5i limited,excellent,4,gas,25300,clean,automatic,4wd,mid-size,SUV,white,wi
+17970,2012,gmc,savana cargo van,good,8,gas,127087,clean,automatic,4wd,mid-size,van,red,wi
+17970,2012,gmc,savana cargo van,good,8,gas,127087,clean,automatic,4wd,mid-size,van,red,wi
+17987,2012,chevrolet,express passenger,good,8,gas,29104,clean,automatic,rwd,full-size,van,silver,wi
+17987,2012,chevrolet,express passenger,good,8,gas,29104,clean,automatic,rwd,full-size,van,silver,wi
+17987,2012,chevrolet,express passenger,good,8,gas,29104,clean,automatic,rwd,full-size,van,silver,wi
+17990,2013,chevrolet,silverado 3500hd,good,8,gas,174100,clean,automatic,4wd,full-size,truck,white,wi
+17990,2013,chevrolet,silverado 3500hd,good,8,gas,174100,clean,automatic,4wd,full-size,truck,white,wi
+17995,2018,hyundai,tucson,excellent,4,gas,31888,clean,automatic,4wd,mid-size,SUV,white,wi
+17995,2013,bmw,x5,excellent,6,gas,77603,clean,automatic,4wd,full-size,SUV,brown,wi
+17995,2017,volkswagen,tiguan,excellent,4,gas,51214,clean,automatic,4wd,mid-size,SUV,black,wi
+17995,2011,gmc,sierra 1500 4wd,excellent,8,gas,115000,clean,automatic,4wd,full-size,pickup,black,wi
+17999,2012,chevrolet,tahoe,excellent,8,gas,100955,clean,automatic,4wd,full-size,SUV,silver,wi
+18000,2016,subaru,outback,like new,4,gas,51500,clean,automatic,4wd,full-size,wagon,red,wi
+18000,2017,chrysler,pacifica,good,6,gas,58000,clean,automatic,fwd,mid-size,mini-van,red,wi
+18200,2016,lincoln,mkz,excellent,6,gas,83000,clean,automatic,4wd,mid-size,sedan,grey,wi
+18289,2012,chevrolet,silverado lt 2lt z71,good,8,gas,115719,clean,automatic,4wd,full-size,truck,brown,wi
+18368,2019,chevrolet,trax,excellent,4,gas,19038,clean,automatic,4wd,compact,wagon,blue,wi
+18500,2014,honda,cr-v,excellent,4,gas,33000,clean,automatic,4wd,mid-size,SUV,white,wi
+18500,2014,acura,mdx tech pkg awd,good,6,gas,93348,clean,automatic,4wd,full-size,SUV,silver,wi
+18500,2010,jeep,wrangler unlimited sport,good,6,gas,169966,clean,automatic,4wd,full-size,SUV,red,wi
+18500,2015,honda,pilot ex-l 4wd,excellent,6,gas,96000,clean,automatic,4wd,full-size,SUV,red,wi
+18500,2015,honda,crv ex-l,excellent,4,gas,45400,clean,automatic,fwd,full-size,SUV,black,wi
+18590,2017,kia,sorento ex,good,6,gas,75957,clean,automatic,4wd,full-size,SUV,white,wi
+18900,2018,chevrolet,equinox ls,excellent,4,gas,3200,clean,automatic,fwd,mid-size,SUV,silver,wi
+18900,2017,toyota,rav4,excellent,4,gas,55800,clean,automatic,4wd,mid-size,SUV,silver,wi
+18950,2001,ram,3500 slt dually,excellent,6,diesel,162222,clean,automatic,4wd,full-size,truck,white,wi
+18950,2009,gmc,sierra 1500 denali,like new,8,gas,210000,clean,automatic,4wd,full-size,truck,white,wi
+18950,2012,chevrolet,camaro rs,like new,6,gas,48888,clean,automatic,rwd,full-size,coupe,orange,wi
+18950,2009,chevrolet,silverado 1500,excellent,8,gas,101237,clean,automatic,4wd,full-size,truck,grey,wi
+18988,2013,gmc,savana passenger,good,8,gas,104059,clean,automatic,4wd,full-size,van,white,wi
+18995,2008,jeep,wrangler,excellent,6,gas,47080,clean,automatic,4wd,full-size,SUV,yellow,wi
+18995,2016,toyota,prius,excellent,4,hybrid,55521,clean,automatic,fwd,mid-size,sedan,red,wi
+18995,2007,ram,3500,good,6,gas,203693,clean,automatic,4wd,full-size,truck,red,wi
+18995,2015,mercedes-benz,e-class,excellent,6,gas,98167,clean,automatic,4wd,mid-size,sedan,grey,wi
+18995,2014,mercedes-benz,e-class,excellent,6,gas,91094,clean,automatic,4wd,mid-size,sedan,grey,wi
+18995,2004,chevrolet,corvette,excellent,8,gas,70073,clean,manual,rwd,full-size,convertible,blue,wi
+19000,2017,cadillac,xts,excellent,6,gas,72944,clean,automatic,fwd,full-size,sedan,silver,wi
+19000,2017,jeep,cherokee,excellent,4,gas,28102,clean,automatic,4wd,mid-size,SUV,black,wi
+19000,2015,ford,explorer,excellent,6,gas,99600,clean,automatic,4wd,full-size,SUV,black,wi
+19500,2010,jeep,wrangler unlimited x 4x4,good,6,gas,110000,clean,automatic,4wd,full-size,SUV,silver,wi
+19500,2008,ford,f-250 super duty,excellent,8,diesel,159000,clean,automatic,4wd,full-size,truck,red,wi
+19670,2011,ford,f-150 lariat 4wd,good,6,gas,114634,clean,automatic,4wd,full-size,truck,black,wi
+19706,2013,honda,pilot ex-l 4wd,good,6,gas,52135,clean,automatic,4wd,full-size,SUV,grey,wi
+19731,2016,ford,transit wagon,good,6,gas,80075,clean,automatic,rwd,full-size,van,red,wi
+19731,2016,ford,transit wagon,good,6,gas,80075,clean,automatic,rwd,full-size,van,red,wi
+19731,2016,ford,transit wagon,good,6,gas,80075,clean,automatic,rwd,full-size,van,red,wi
+19822,2015,ford,transit wagon,good,6,gas,73130,clean,automatic,rwd,full-size,van,white,wi
+19822,2015,ford,transit wagon,good,6,gas,73130,clean,automatic,rwd,full-size,van,white,wi
+19880,2015,jeep,grand cherokee limited,good,6,gas,85549,clean,automatic,4wd,mid-size,SUV,black,wi
+19888,2014,gmc,savana cargo van,good,8,gas,156677,clean,automatic,4wd,mid-size,van,yellow,wi
+19888,2014,gmc,savana cargo van,good,8,gas,156677,clean,automatic,4wd,mid-size,van,yellow,wi
+19888,2017,audi,a4,excellent,4,gas,42349,clean,automatic,fwd,mid-size,sedan,black,wi
+19900,2018,ford,transit connect xlt,like new,6,hybrid,8154,clean,automatic,fwd,full-size,mini-van,grey,wi
+19900,2010,ram,1500,good,8,gas,66666,clean,automatic,4wd,full-size,truck,black,wi
+19900,2014,cadillac,escalade esv,good,6,gas,190700,clean,automatic,4wd,full-size,SUV,black,wi
+19900,2009,chevrolet,silverado 2500hd,excellent,8,gas,63575,clean,automatic,4wd,full-size,truck,black,wi
+19950,2011,ford,f350 superduty diesel,fair,8,diesel,165000,clean,automatic,4wd,full-size,truck,white,wi
+19977,2011,chevrolet,tahoe ltz 4x4,good,8,gas,124000,clean,automatic,fwd,full-size,SUV,silver,wi
+19981,2015,ford,transit wagon,good,6,gas,73130,clean,automatic,rwd,full-size,van,white,wi
+19990,2019,chevrolet,equinox,excellent,4,gas,35031,clean,automatic,4wd,mid-size,SUV,black,wi
+19995,2015,ram,1500,excellent,6,diesel,114460,clean,automatic,4wd,full-size,pickup,white,wi
+19995,2016,kia,optima,excellent,4,gas,32524,clean,automatic,fwd,mid-size,sedan,white,wi
+19995,2019,jeep,renegade,excellent,4,gas,28678,clean,automatic,4wd,mid-size,SUV,white,wi
+19995,2017,ford,focus,excellent,4,gas,51137,clean,automatic,fwd,mid-size,sedan,white,wi
+19995,2017,chevrolet,express,excellent,8,gas,67157,clean,automatic,rwd,full-size,van,silver,wi
+19995,2017,chevrolet,express,excellent,6,gas,67157,clean,automatic,rwd,full-size,van,silver,wi
+19995,2014,chevrolet,silverado,excellent,8,gas,73173,rebuilt,automatic,4wd,full-size,pickup,red,wi
+19995,2014,chevrolet,silverado,excellent,8,gas,73173,rebuilt,automatic,4wd,full-size,pickup,red,wi
+19995,2015,jeep,grand cherokee,excellent,6,gas,78993,clean,automatic,4wd,full-size,SUV,grey,wi
+19995,2017,fiat,124 spider,excellent,4,gas,25005,clean,manual,rwd,mid-size,convertible,grey,wi
+19995,2017,fiat,124 spider,excellent,4,gas,25005,clean,manual,rwd,mid-size,convertible,grey,wi
+19995,2014,lincoln,navigator,excellent,8,gas,122500,clean,automatic,4wd,full-size,SUV,blue,wi
+19995,2017,hyundai,tucsion limited,good,4,gas,26011,clean,automatic,4wd,mid-size,SUV,blue,wi
+19995,2017,hyundai,tucsion limited,good,4,gas,26011,clean,automatic,4wd,mid-size,SUV,blue,wi
+19995,2018,volkswagen,passat,excellent,4,gas,15111,clean,automatic,fwd,mid-size,sedan,black,wi
+19995,2013,chevrolet,suburban,excellent,8,gas,109144,clean,automatic,4wd,full-size,SUV,black,wi
+19995,2012,nissan,370z,excellent,6,gas,93651,clean,manual,rwd,mid-size,coupe,black,wi
+19995,2018,toyota,camry,excellent,4,gas,63840,clean,automatic,fwd,mid-size,sedan,black,wi
+19995,2014,ford,expedition,excellent,8,gas,106955,clean,automatic,4wd,full-size,SUV,black,wi
+19995,2018,jeep,compass trailhawk,like new,4,gas,65050,clean,automatic,4wd,mid-size,SUV,black,wi
+19999,2011,ford,f-150,excellent,8,gas,80920,rebuilt,automatic,4wd,full-size,pickup,silver,wi
+19999,2011,ford,f-150,excellent,8,gas,80920,rebuilt,automatic,4wd,full-size,pickup,silver,wi
+20134,2018,chevrolet,equinox,excellent,4,gas,35057,clean,automatic,4wd,mid-size,SUV,blue,wi
+20219,2017,cadillac,xts,excellent,6,gas,49980,clean,automatic,fwd,full-size,sedan,black,wi
+20495,2014,ford,f-150 supercrew 4wd,good,6,gas,96935,clean,automatic,4wd,full-size,truck,black,wi
+20500,2019,chevrolet,impala,excellent,6,gas,27156,clean,automatic,fwd,full-size,sedan,silver,wi
+20538,2014,ford,f-150 xlt supercrew 4wd,good,6,gas,99700,clean,automatic,4wd,full-size,truck,blue,wi
+20538,2014,ford,f-150 xlt supercrew 4wd,good,6,gas,99700,clean,automatic,4wd,full-size,truck,blue,wi
+20559,2020,buick,encore gx,excellent,3,gas,2875,clean,automatic,fwd,compact,SUV,red,wi
+20621,2019,chevrolet,impala,excellent,6,gas,24813,clean,automatic,fwd,full-size,sedan,black,wi
+20637,2014,jeep,grand cherokee,excellent,8,gas,95436,clean,automatic,4wd,mid-size,SUV,white,wi
+20710,2014,jeep,grand cherokee,excellent,8,gas,95436,clean,automatic,4wd,mid-size,SUV,white,wi
+20800,2010,chevrolet,express passenger,good,8,gas,79499,clean,automatic,4wd,full-size,van,blue,wi
+20900,2014,toyota,tundra,excellent,8,gas,123600,clean,automatic,4wd,full-size,truck,white,wi
+20900,2017,honda,pilot,good,6,gas,103610,clean,automatic,4wd,full-size,SUV,black,wi
+20900,2012,ford,f150 platinum,excellent,6,gas,130000,clean,automatic,4wd,full-size,truck,black,wi
+20980,2017,toyota,prius,excellent,4,hybrid,29000,clean,automatic,fwd,mid-size,sedan,black,wi
+20986,2019,chevrolet,equinox,excellent,4,gas,26115,clean,automatic,4wd,mid-size,SUV,black,wi
+20990,2007,chevrolet,express cargo van,good,8,gas,133355,clean,automatic,rwd,full-size,truck,white,wi
+20995,2017,volkswagen,golf gti,excellent,4,gas,40432,clean,manual,fwd,compact,sedan,grey,wi
+20995,2018,chrysler,300,excellent,6,gas,41656,clean,automatic,rwd,full-size,sedan,black,wi
+20995,2017,kia,sorento,excellent,6,gas,40878,rebuilt,automatic,4wd,mid-size,SUV,black,wi
+21000,2016,bmw,328i xdrive gran turismo,like new,4,gas,36234,clean,automatic,4wd,mid-size,sedan,black,wi
+21125,2019,honda,hr-v,excellent,4,gas,24888,clean,automatic,4wd,compact,SUV,black,wi
+21125,2019,honda,hr-v,excellent,4,gas,24888,clean,automatic,4wd,compact,SUV,black,wi
+21423,2015,buick,enclave,excellent,6,gas,62545,clean,automatic,4wd,full-size,SUV,red,wi
+21500,2014,ford,f-150 supercrew platinum 4x,excellent,6,gas,165000,lien,automatic,4wd,full-size,pickup,red,wi
+21599,2014,ford,expedition el,excellent,8,other,75000,clean,automatic,4wd,full-size,SUV,black,wi
+21750,2017,ford,edge titanium,excellent,4,gas,59000,lien,automatic,4wd,mid-size,SUV,white,wi
+21888,2013,chevrolet,express cargo van,good,8,gas,2536,clean,automatic,rwd,mid-size,van,silver,wi
+21895,2008,dodge,challenger srt-8,good,8,gas,38849,clean,automatic,rwd,full-size,coupe,silver,wi
+21895,2008,dodge,challenger srt-8,good,8,gas,38849,clean,automatic,rwd,full-size,coupe,silver,wi
+21900,2013,audi,s5,good,6,gas,60061,clean,automatic,4wd,mid-size,convertible,grey,wi
+21900,2008,ford,f-350 sd,good,8,diesel,161639,clean,automatic,4wd,full-size,truck,black,wi
+21949,2019,chevrolet,equinox,excellent,4,gas,21516,clean,automatic,4wd,full-size,SUV,blue,wi
+21950,2014,gmc,sierra 1500 crew cab,excellent,8,gas,195414,clean,automatic,4wd,full-size,pickup,white,wi
+21960,2012,gmc,savana cargo van,good,8,gas,94465,clean,automatic,4wd,mid-size,van,white,wi
+21960,2012,gmc,savana cargo van,good,8,gas,94465,clean,automatic,4wd,mid-size,van,white,wi
+21966,2012,gmc,savana cargo van,good,8,gas,95552,clean,automatic,4wd,mid-size,van,white,wi
+21966,2012,gmc,savana cargo van,good,8,gas,95552,clean,automatic,4wd,mid-size,van,white,wi
+21969,2011,chevrolet,express passenger,good,8,gas,73766,clean,automatic,4wd,full-size,van,black,wi
+21990,2008,ford,f-350 sd,good,8,gas,68845,clean,automatic,rwd,full-size,truck,white,wi
+21990,2008,ford,f-350 sd,good,8,gas,68845,clean,automatic,rwd,full-size,truck,white,wi
+21990,2017,gmc,savana cargo van,good,8,gas,65618,clean,automatic,rwd,mid-size,van,red,wi
+21990,2017,gmc,savana cargo van,good,8,gas,65618,clean,automatic,rwd,mid-size,van,red,wi
+21994,2020,chevrolet,equinox,excellent,4,gas,4743,clean,automatic,fwd,mid-size,SUV,white,wi
+21995,2011,ram,1500 big horn 4x4,like new,8,gas,106100,clean,automatic,4wd,full-size,truck,red,wi
+21995,2011,ram,1500 big horn 4x4,like new,8,gas,106100,clean,automatic,4wd,full-size,truck,red,wi
+21995,2017,jeep,wrangler unlimited,excellent,6,gas,199060,clean,automatic,4wd,full-size,SUV,grey,wi
+21995,2014,chevrolet,silverado 1500,excellent,8,gas,136288,clean,automatic,4wd,full-size,pickup,black,wi
+21999,2016,bmw,328i xdrive gran turismo,like new,4,gas,36234,clean,automatic,4wd,mid-size,sedan,black,wi
+22000,1998,bmw,m3 sedan,excellent,6,gas,89000,clean,manual,rwd,mid-size,sedan,silver,wi
+22488,2013,chevrolet,express passenger,good,8,gas,78507,clean,automatic,4wd,full-size,van,black,wi
+22500,2011,chevrolet,silverado,excellent,8,gas,71500,clean,automatic,4wd,full-size,truck,green,wi
+22500,2015,ford,f-150,excellent,6,gas,123727,clean,automatic,4wd,full-size,pickup,black,wi
+22500,2015,ford,f-150,excellent,8,gas,123727,clean,automatic,fwd,full-size,pickup,black,wi
+22541,2011,ford,f-150,excellent,8,gas,114751,clean,automatic,4wd,full-size,truck,black,wi
+22877,2015,chevrolet,colorado z71,good,6,gas,77472,clean,automatic,4wd,full-size,truck,black,wi
+22900,2015,rover,evoque,good,4,gas,75351,clean,automatic,4wd,full-size,SUV,white,wi
+22900,2006,ram,2500,good,6,gas,118471,clean,automatic,4wd,full-size,truck,grey,wi
+22925,2015,cadillac,srx,excellent,6,gas,28124,clean,automatic,4wd,mid-size,SUV,black,wi
+22925,2015,cadillac,srx,excellent,6,gas,28124,clean,automatic,4wd,mid-size,SUV,black,wi
+22988,2013,chevrolet,express cargo van,good,8,gas,75720,clean,automatic,4wd,mid-size,van,silver,wi
+22994,2014,chevrolet,express passenger,good,8,gas,90822,clean,automatic,4wd,full-size,van,green,wi
+22995,2015,ford,super duty f-350 drw,excellent,8,diesel,179096,clean,automatic,rwd,full-size,pickup,white,wi
+22995,2020,ford,edge,excellent,4,gas,17000,clean,automatic,fwd,full-size,SUV,white,wi
+22995,2015,nissan,murano,excellent,6,gas,45929,clean,automatic,4wd,mid-size,SUV,black,wi
+22998,2020,buick,encore gx,excellent,3,gas,3292,clean,automatic,fwd,compact,SUV,red,wi
+22999,2009,chevrolet,express passenger,good,8,gas,40935,clean,automatic,4wd,full-size,van,green,wi
+23000,2015,chevrolet,silverado 1500,excellent,8,gas,70000,rebuilt,automatic,4wd,full-size,truck,silver,wi
+23488,2012,chevrolet,express cargo van,good,8,gas,55067,clean,automatic,4wd,mid-size,van,silver,wi
+23488,2012,chevrolet,express cargo van,good,8,gas,55067,clean,automatic,4wd,mid-size,van,silver,wi
+23490,2013,chevrolet,express passenger,good,8,gas,70791,clean,automatic,4wd,full-size,van,white,wi
+23500,2014,ford,f-150,excellent,8,gas,59000,clean,automatic,4wd,full-size,pickup,white,wi
+23500,2012,gmc,yukon xl denali,excellent,8,gas,75700,clean,automatic,4wd,full-size,SUV,white,wi
+23500,2017,ram,1500,excellent,6,gas,47563,clean,automatic,4wd,full-size,pickup,grey,wi
+23888,2014,chevrolet,express passenger,good,8,gas,75760,clean,automatic,4wd,full-size,van,red,wi
+23900,2013,toyota,tacoma,excellent,6,gas,40250,clean,automatic,4wd,mid-size,pickup,silver,wi
+23942,2017,ford,explorer,excellent,6,gas,100316,clean,automatic,4wd,full-size,SUV,white,wi
+23970,2013,chevrolet,express passenger,good,8,gas,69242,clean,automatic,4wd,full-size,van,silver,wi
+23990,2011,jaguar,xj,like new,8,gas,29700,clean,automatic,rwd,full-size,sedan,black,wi
+23990,2010,mercedes-benz,cl-class,good,8,gas,72247,clean,automatic,rwd,mid-size,coupe,black,wi
+23995,2017,honda,cr-v,excellent,4,gas,37632,clean,automatic,4wd,mid-size,SUV,white,wi
+23995,2008,ford,f-250,excellent,8,diesel,116271,rebuilt,automatic,4wd,full-size,pickup,blue,wi
+23995,2015,bmw,x5,excellent,6,gas,90658,clean,automatic,4wd,full-size,SUV,black,wi
+23998,2016,lexus,es,excellent,6,gas,51538,clean,automatic,fwd,mid-size,sedan,red,wi
+24000,2019,mazda,cx-5,excellent,3,gas,45000,clean,automatic,4wd,mid-size,SUV,grey,wi
+24495,2017,ram,1500,excellent,6,gas,36763,rebuilt,automatic,4wd,full-size,pickup,red,wi
+24495,2017,ram,1500,excellent,6,gas,36763,rebuilt,automatic,4wd,full-size,pickup,red,wi
+24500,2017,chrysler,300 s,like new,6,gas,22332,clean,automatic,4wd,full-size,sedan,white,wi
+24666,2013,chevrolet,express cargo van,good,8,gas,38252,clean,automatic,4wd,mid-size,van,grey,wi
+24777,2014,chevrolet,express passenger,good,8,gas,71825,clean,automatic,4wd,full-size,van,silver,wi
+24777,2014,chevrolet,express passenger,good,8,gas,71825,clean,automatic,4wd,full-size,van,silver,wi
+24800,2013,chevrolet,express passenger,good,8,gas,55291,clean,automatic,4wd,full-size,van,green,wi
+24880,2014,chevrolet,express passenger,good,8,gas,62791,clean,automatic,4wd,full-size,van,white,wi
+24888,2014,chevrolet,silverado 1500,excellent,8,gas,121785,clean,automatic,4wd,full-size,truck,silver,wi
+24890,2015,chevrolet,silverado 1500,excellent,6,gas,80109,clean,automatic,4wd,full-size,truck,grey,wi
+24898,2014,gmc,sierra 1500 sle,good,8,gas,109626,clean,automatic,4wd,full-size,truck,silver,wi
+24900,2017,ford,f150 super cab sport,excellent,6,gas,33097,rebuilt,automatic,4wd,full-size,pickup,blue,wi
+24900,2012,cadillac,escalade awd,excellent,8,gas,84143,clean,automatic,4wd,full-size,SUV,black,wi
+24950,2015,chevrolet,silverado 2500hd,excellent,8,gas,181655,clean,automatic,4wd,full-size,truck,black,wi
+24980,2013,chevrolet,express cargo van,good,8,gas,39967,clean,automatic,4wd,mid-size,van,white,wi
+24980,2013,chevrolet,express cargo van,good,8,gas,39967,clean,automatic,4wd,mid-size,van,white,wi
+24980,2013,chevrolet,express cargo van,good,8,gas,39967,clean,automatic,4wd,mid-size,van,white,wi
+24986,2013,chevrolet,express cargo van,good,8,gas,25427,clean,automatic,4wd,mid-size,van,custom,wi
+24986,2013,chevrolet,express cargo van,good,8,gas,25427,clean,automatic,4wd,mid-size,van,custom,wi
+24990,2014,chevrolet,express commercial cutaway,good,8,gas,53765,clean,automatic,rwd,full-size,truck,white,wi
+24990,2006,chevrolet,cc4500,good,8,gas,104422,clean,automatic,rwd,full-size,truck,white,wi
+24990,2006,chevrolet,cc4500,good,8,gas,110932,clean,automatic,rwd,full-size,truck,white,wi
+24990,2006,chevrolet,cc4500,good,8,gas,110932,clean,automatic,rwd,full-size,truck,white,wi
+24995,2018,ford,flex sel awd,like new,6,gas,39106,clean,automatic,4wd,mid-size,SUV,blue,wi
+24995,2012,audi,a7,excellent,6,gas,56619,clean,automatic,4wd,mid-size,sedan,black,wi
+25000,2012,ram,2500,good,8,diesel,130000,clean,automatic,4wd,full-size,pickup,red,wi
+25000,2017,chevrolet,traverse,excellent,6,gas,31103,clean,automatic,4wd,full-size,SUV,black,wi
+25364,2017,ram,1500,excellent,6,gas,36150,clean,automatic,4wd,mid-size,truck,black,wi
+25500,2016,lexus,nx 200t,like new,4,gas,57995,clean,automatic,4wd,mid-size,SUV,grey,wi
+25500,2013,jeep,wrangler unlimited sahara,good,6,gas,87896,clean,automatic,4wd,mid-size,SUV,green,wi
+25895,2017,chevrolet,colorado,excellent,6,gas,55909,rebuilt,automatic,4wd,mid-size,pickup,black,wi
+25995,2015,jeep,wrangler unlimited,excellent,6,gas,91187,clean,automatic,4wd,full-size,SUV,white,wi
+25995,2011,ford,super duty f-550 drw,excellent,8,diesel,127489,clean,automatic,rwd,full-size,pickup,white,wi
+25998,2017,chevrolet,traverse,excellent,6,gas,27759,clean,automatic,4wd,full-size,SUV,black,wi
+26000,2008,chevrolet,silverado 2500hd,good,8,diesel,120000,clean,automatic,4wd,mid-size,pickup,brown,wi
+26314,2017,toyota,sienna,excellent,6,gas,19898,clean,automatic,fwd,full-size,van,red,wi
+26700,2015,chevrolet,silverado 1500 ltz 4x4,excellent,8,gas,80100,clean,automatic,4wd,full-size,pickup,black,wi
+26880,2011,chevrolet,express passenger,good,8,gas,29067,clean,automatic,4wd,full-size,van,custom,wi
+26880,2011,chevrolet,express passenger,good,8,gas,29067,clean,automatic,4wd,full-size,van,custom,wi
+26900,2014,chevrolet,camaro,good,8,gas,25549,clean,automatic,rwd,mid-size,coupe,blue,wi
+26932,2018,toyota,avalon,excellent,6,gas,32003,clean,automatic,fwd,mid-size,sedan,silver,wi
+26954,2015,jeep,grand cherokee,excellent,8,gas,59529,clean,automatic,4wd,full-size,SUV,black,wi
+26990,2013,chevrolet,express cargo van,good,8,gas,36329,clean,automatic,4wd,mid-size,van,white,wi
+26990,2006,ford,super duty f-550 drw,good,8,diesel,80033,clean,automatic,4wd,full-size,truck,red,wi
+26990,2006,ford,super duty f-550 drw,good,8,diesel,80033,clean,automatic,4wd,full-size,truck,red,wi
+26990,2016,ford,super duty f-350 drw,good,8,diesel,109769,clean,automatic,4wd,full-size,truck,grey,wi
+26990,2016,ford,super duty f-350 drw,good,8,diesel,109769,clean,automatic,4wd,full-size,truck,grey,wi
+26998,2013,chevrolet,express passenger,good,8,gas,42333,clean,automatic,4wd,full-size,van,silver,wi
+27400,2016,gmc,sierra 1500,excellent,8,gas,115000,clean,automatic,4wd,full-size,pickup,black,wi
+27490,2017,gmc,acadia,excellent,6,gas,28194,clean,automatic,4wd,mid-size,SUV,blue,wi
+27950,2018,subaru,wrx,excellent,4,gas,20128,clean,manual,4wd,mid-size,sedan,white,wi
+27990,2008,ford,econoline cargo van,good,8,gas,83459,clean,automatic,rwd,full-size,truck,white,wi
+27990,2008,ford,econoline cargo van,good,8,gas,83459,clean,automatic,rwd,full-size,truck,white,wi
+27995,2018,honda,accord sedan,excellent,4,gas,22021,clean,automatic,fwd,mid-size,sedan,white,wi
+27995,2015,ram,1500 sport,excellent,8,gas,85402,clean,automatic,4wd,full-size,truck,white,wi
+27995,2017,jeep,grand cherokee,excellent,6,gas,43105,clean,automatic,4wd,full-size,SUV,black,wi
+27995,2014,gmc,sierra 1500,excellent,8,gas,74000,clean,automatic,4wd,full-size,pickup,black,wi
+27995,2007,toyota,fj cruiser,excellent,8,gas,79993,clean,automatic,4wd,full-size,SUV,black,wi
+27999,2014,jeep,wrangler,excellent,6,gas,75500,rebuilt,automatic,4wd,full-size,offroad,grey,wi
+28000,2017,jaguar,xe 35t prestige,like new,6,gas,8699,clean,automatic,rwd,mid-size,sedan,black,wi
+28400,2012,chevrolet,silverado 2500hd,excellent,8,gas,20046,clean,automatic,4wd,full-size,pickup,grey,wi
+28750,2013,ford,f-150,excellent,8,gas,46835,clean,automatic,4wd,full-size,pickup,red,wi
+28750,2013,ford,f-150,excellent,8,gas,46835,clean,automatic,4wd,full-size,pickup,red,wi
+28850,2013,ford,f-150,excellent,8,gas,46835,clean,automatic,4wd,full-size,pickup,red,wi
+28887,2017,chevrolet,silverado 1500,excellent,8,gas,96561,clean,automatic,4wd,mid-size,truck,silver,wi
+28888,2011,chevrolet,express passenger,good,8,gas,62493,clean,automatic,4wd,full-size,van,white,wi
+28950,2018,gmc,terrain denali,like new,4,gas,29316,clean,automatic,4wd,mid-size,SUV,black,wi
+28995,2017,jeep,wrangler unlimited,excellent,6,gas,58109,clean,automatic,4wd,full-size,SUV,white,wi
+28995,2015,ford,f-150,excellent,6,gas,77200,clean,automatic,4wd,full-size,pickup,red,wi
+28995,2018,ford,explorer,excellent,4,gas,46573,clean,automatic,4wd,full-size,SUV,blue,wi
+28995,2017,ram,1500,excellent,8,gas,53961,clean,automatic,4wd,full-size,pickup,black,wi
+28995,2017,ford,expedition el,excellent,6,gas,84878,clean,automatic,4wd,full-size,SUV,black,wi
+28995,2015,chevrolet,silverado 2lz ltz z71,good,8,gas,99288,clean,automatic,4wd,full-size,truck,black,wi
+28998,2017,ford,f-150,excellent,6,gas,68192,clean,automatic,4wd,mid-size,truck,grey,wi
+29000,2018,toyota,highlander xle,excellent,6,gas,47327,clean,automatic,4wd,mid-size,SUV,grey,wi
+29000,2014,bmw,m5,excellent,8,gas,57034,rebuilt,automatic,4wd,full-size,sedan,black,wi
+29490,2007,chevrolet,corvette,excellent,8,gas,15237,clean,automatic,rwd,sub-compact,coupe,yellow,wi
+29900,2015,gmc,sierra 1500,like new,8,gas,25825,clean,automatic,4wd,full-size,pickup,black,wi
+29950,2015,toyota,4 runner limited,excellent,6,gas,78920,clean,automatic,4wd,mid-size,SUV,black,wi
+29980,2011,chevrolet,express passenger,good,8,gas,59796,clean,automatic,4wd,full-size,van,white,wi
+29995,2013,lincoln,mkt limo,excellent,6,gas,84000,clean,automatic,rwd,compact,other,white,wi
+29995,2013,lincoln,mkt limo,excellent,6,gas,84000,clean,automatic,rwd,compact,other,white,wi
+29995,2018,chevrolet,suburban,excellent,8,gas,118915,clean,automatic,4wd,full-size,SUV,black,wi
+29995,2016,chevrolet,suburban,excellent,8,gas,105992,clean,automatic,4wd,full-size,SUV,black,wi
+30000,2019,gmc,acadia slt-1,like new,6,gas,44000,lien,automatic,4wd,full-size,SUV,black,wi
+30000,2014,ford,f-150 platinum 4wd,good,8,gas,46594,clean,automatic,4wd,full-size,truck,black,wi
+30569,2015,gmc,sierra sle,good,8,gas,60819,clean,automatic,4wd,full-size,truck,grey,wi
+30900,2015,chevrolet,silverado 2500hd,excellent,8,gas,44858,clean,automatic,4wd,full-size,truck,white,wi
+30900,2014,gmc,sierra 1500,excellent,8,gas,27660,clean,automatic,4wd,full-size,pickup,red,wi
+30995,2017,chevrolet,express,excellent,8,gas,72217,rebuilt,automatic,rwd,full-size,truck,white,wi
+30995,2020,chevrolet,blazer lt v6 awd,good,6,gas,3559,clean,automatic,4wd,full-size,SUV,silver,wi
+30995,2017,ram,1500,like new,8,gas,17000,clean,automatic,4wd,full-size,pickup,red,wi
+30995,2018,jeep,grand cherokee,good,6,gas,33500,clean,automatic,4wd,full-size,SUV,grey,wi
+30995,2018,ford,f-150,excellent,6,gas,51473,clean,automatic,4wd,full-size,pickup,black,wi
+30999,2016,ford,f-250,excellent,8,gas,49384,rebuilt,automatic,4wd,full-size,pickup,black,wi
+30999,2016,ford,f-250,excellent,8,gas,49384,rebuilt,automatic,4wd,full-size,pickup,black,wi
+31000,2018,ford,f-150,excellent,8,gas,57000,clean,automatic,4wd,full-size,truck,white,wi
+31208,2019,volkswagen,tiguan,excellent,4,gas,7905,clean,automatic,4wd,full-size,SUV,grey,wi
+31208,2019,volkswagen,tiguan,excellent,4,gas,7905,clean,automatic,4wd,full-size,SUV,grey,wi
+31449,2017,buick,enclave,excellent,6,gas,23070,clean,automatic,4wd,full-size,SUV,white,wi
+31500,2019,ram,1500 classic,excellent,8,gas,44855,clean,automatic,4wd,mid-size,truck,white,wi
+31500,2015,ford,f150 lariat supercrew 4x4,like new,6,gas,80000,clean,automatic,4wd,full-size,truck,black,wi
+31900,2011,gmc,sierra 2500hd,excellent,8,gas,44000,clean,automatic,4wd,full-size,pickup,silver,wi
+31988,2011,chevrolet,express passenger,good,8,gas,30416,clean,automatic,4wd,full-size,van,white,wi
+31988,2011,chevrolet,express passenger,good,8,gas,30416,clean,automatic,4wd,full-size,van,white,wi
+31990,2012,ford,super duty f-450 drw,good,10,gas,55622,clean,automatic,4wd,full-size,truck,white,wi
+31990,2012,ford,super duty f-450 drw,good,10,gas,55622,clean,automatic,4wd,full-size,truck,white,wi
+31995,2016,ford,f-150,excellent,8,gas,75280,clean,automatic,4wd,full-size,pickup,black,wi
+31995,2014,gmc,sierra,excellent,8,gas,71861,clean,automatic,4wd,full-size,truck,black,wi
+31995,2014,gmc,sierra,excellent,8,gas,71861,clean,automatic,4wd,full-size,truck,black,wi
+32000,2015,jeep,wrangler unlimited,excellent,6,gas,130870,clean,automatic,4wd,full-size,SUV,red,wi
+32000,2016,dodge,charger srt 392,excellent,8,gas,58627,clean,automatic,rwd,mid-size,sedan,orange,wi
+32900,2018,nissan,murano platinum awd,excellent,6,gas,14300,lien,automatic,4wd,full-size,SUV,black,wi
+32900,2018,nissan,murano platinum awd,excellent,6,gas,14300,lien,automatic,4wd,full-size,SUV,black,wi
+32990,2017,ford,f-150,excellent,8,gas,36812,clean,automatic,4wd,full-size,truck,blue,wi
+32995,2016,ford,f-350,excellent,8,diesel,147636,clean,automatic,4wd,full-size,pickup,silver,wi
+32995,2016,ford,f-350,excellent,8,diesel,147636,clean,automatic,4wd,full-size,pickup,silver,wi
+32998,2018,ford,f-150,excellent,6,gas,19670,clean,automatic,4wd,mid-size,truck,grey,wi
+33000,2019,chrysler,pacifica,like new,6,gas,24000,clean,automatic,fwd,full-size,mini-van,silver,wi
+33000,2015,toyota,sequoia,like new,8,gas,75000,lien,automatic,4wd,full-size,SUV,black,wi
+33483,2016,gmc,sierra 1500,excellent,8,gas,87755,clean,automatic,4wd,mid-size,truck,black,wi
+33921,2016,gmc,sierra 1500,excellent,8,gas,87755,clean,automatic,4wd,mid-size,truck,black,wi
+33961,2017,jaguar,f-pace,excellent,6,gas,39040,clean,automatic,4wd,full-size,SUV,black,wi
+33978,2018,gmc,sierra 1500,excellent,8,gas,34958,clean,automatic,4wd,mid-size,truck,grey,wi
+33978,2018,gmc,sierra 1500,excellent,8,gas,34958,clean,automatic,4wd,mid-size,truck,grey,wi
+33994,2017,toyota,tacoma trd off road,excellent,6,gas,57114,clean,automatic,4wd,mid-size,truck,grey,wi
+33995,2008,ram,2500,excellent,6,gas,124241,clean,automatic,4wd,full-size,truck,grey,wi
+33995,2017,chevrolet,silverado 1500,excellent,8,gas,65609,clean,automatic,4wd,full-size,truck,black,wi
+34000,2018,chevrolet,silverado 1500,like new,8,gas,28000,clean,automatic,4wd,full-size,truck,custom,wi
+34500,2015,jeep,wrangler unlimited sahara,like new,6,gas,18509,clean,manual,4wd,full-size,SUV,yellow,wi
+34500,2018,cadillac,pho,like new,6,gas,20000,clean,automatic,4wd,mid-size,SUV,white,wi
+34900,2018,ram,big horn 4x4,like new,8,gas,30900,clean,automatic,4wd,full-size,pickup,blue,wi
+34990,2016,ford,super duty f-650 straight frame,good,8,diesel,106561,clean,automatic,rwd,full-size,truck,white,wi
+34990,2016,ford,super duty f-650 straight frame,good,8,diesel,103335,clean,automatic,rwd,full-size,truck,white,wi
+34990,2016,ford,super duty f-650 straight frame,good,8,diesel,108302,clean,automatic,rwd,full-size,truck,white,wi
+34990,2016,ford,super duty f-650 straight frame,good,8,diesel,106561,clean,automatic,rwd,full-size,truck,white,wi
+34990,2016,ford,super duty f-650 straight frame,good,8,diesel,103335,clean,automatic,rwd,full-size,truck,white,wi
+34990,2016,ford,super duty f-650 straight frame,good,8,diesel,108302,clean,automatic,rwd,full-size,truck,white,wi
+34995,2012,jeep,grand cherokee,excellent,8,gas,73453,clean,automatic,4wd,full-size,SUV,black,wi
+34998,2018,chevrolet,suburban,excellent,8,gas,85903,clean,automatic,4wd,full-size,SUV,blue,wi
+35781,2018,ford,f-150,excellent,6,gas,26606,clean,automatic,4wd,mid-size,truck,red,wi
+35988,2014,chevrolet,express passenger,good,8,gas,55535,clean,automatic,4wd,full-size,van,white,wi
+35990,2011,ram,5500,good,6,diesel,98579,clean,automatic,4wd,full-size,truck,white,wi
+35990,2011,ram,5500,good,6,diesel,98579,clean,automatic,4wd,full-size,truck,white,wi
+35995,2018,chevrolet,camaro,excellent,8,gas,8523,clean,manual,rwd,sub-compact,coupe,white,wi
+35995,2017,ford,f-250,excellent,8,gas,65267,clean,automatic,4wd,full-size,pickup,white,wi
+35996,2017,chevrolet,silverado 1500,excellent,8,gas,22445,clean,automatic,4wd,mid-size,truck,silver,wi
+36000,2018,dodge,durango rt awd,like new,8,gas,26800,lien,automatic,4wd,full-size,SUV,white,wi
+36400,2014,chevrolet,silverado 1500,good,8,gas,22000,clean,automatic,4wd,full-size,truck,green,wi
+36894,2020,chevrolet,traverse,excellent,6,gas,25867,clean,automatic,4wd,full-size,SUV,silver,wi
+36922,2016,ram,1500,excellent,8,gas,22336,clean,automatic,4wd,mid-size,truck,yellow,wi
+36990,2017,ram,2500,excellent,8,gas,95905,clean,automatic,4wd,full-size,truck,black,wi
+37510,2017,jaguar,f-pace,excellent,6,gas,21791,clean,automatic,4wd,full-size,SUV,red,wi
+37988,2014,chevrolet,express passenger,good,8,gas,22024,clean,automatic,4wd,full-size,van,white,wi
+37995,2018,chevrolet,camaro,excellent,8,gas,25295,clean,automatic,rwd,sub-compact,coupe,black,wi
+38300,2013,chevrolet,silverado,excellent,8,gas,49748,clean,automatic,4wd,full-size,truck,white,wi
+38300,2013,chevrolet,sliverado,excellent,8,gas,49748,clean,automatic,4wd,full-size,truck,white,wi
+38950,2016,chevrolet,silverado high country,like new,8,gas,74000,clean,automatic,4wd,full-size,truck,white,wi
+38995,2013,gmc,sierra 3500hd,excellent,8,diesel,129836,clean,automatic,4wd,full-size,pickup,black,wi
+39080,2018,dodge,durango sxt plus,like new,6,gas,7500,clean,automatic,4wd,full-size,SUV,black,wi
+39500,2016,cadillac,escalade esv awd,excellent,8,gas,114897,clean,automatic,4wd,full-size,SUV,silver,wi
+39500,2016,cadillac,escalade esv awd,excellent,8,gas,114897,clean,automatic,4wd,full-size,SUV,silver,wi
+39500,2016,cadillac,escalade esv,excellent,8,gas,114897,clean,automatic,4wd,full-size,SUV,silver,wi
+39500,2009,gmc,3500,excellent,8,diesel,16000,clean,automatic,4wd,full-size,pickup,black,wi
+39570,2015,ford,f-450,excellent,8,diesel,51486,rebuilt,automatic,4wd,full-size,truck,white,wi
+39570,2015,ford,f-450,excellent,8,diesel,51486,rebuilt,automatic,4wd,full-size,truck,white,wi
+39895,2017,ram,5500,excellent,6,diesel,59277,rebuilt,automatic,4wd,full-size,truck,white,wi
+39895,2017,ram,5500,excellent,6,diesel,59277,rebuilt,automatic,4wd,full-size,truck,white,wi
+39900,2019,acura,mdx,like new,6,gas,8300,clean,automatic,4wd,full-size,SUV,blue,wi
+39950,2014,ford,f-250,excellent,8,diesel,48007,rebuilt,automatic,4wd,full-size,pickup,green,wi
+39990,2016,mitsubishi,fuso fe180,good,4,diesel,33474,clean,automatic,rwd,full-size,truck,white,wi
+39990,2006,chevrolet,c5c042,good,8,diesel,59850,clean,automatic,4wd,full-size,truck,red,wi
+39995,2017,ram,5500,excellent,6,diesel,59277,rebuilt,automatic,4wd,full-size,truck,white,wi
+40000,2016,ford,f150 supercrew cab platinum,excellent,6,gas,67000,clean,automatic,4wd,full-size,pickup,silver,wi
+40900,2019,ford,f-150,like new,6,gas,12000,clean,automatic,4wd,full-size,truck,grey,wi
+40990,2017,ford,super duty f-650 straight frame,good,8,diesel,75741,clean,automatic,rwd,full-size,truck,white,wi
+41990,2015,ford,super duty f-350 drw,good,8,diesel,40241,clean,automatic,4wd,full-size,truck,silver,wi
+41990,2015,ford,super duty f-350 drw,good,8,diesel,40241,clean,automatic,4wd,full-size,truck,silver,wi
+41995,2018,ram,3500,excellent,6,diesel,113862,clean,automatic,4wd,full-size,pickup,black,wi
+42500,2015,gmc,yukon denali,excellent,8,gas,34478,clean,automatic,4wd,full-size,SUV,black,wi
+42900,2018,rover,discovery hse,excellent,6,gas,50000,clean,automatic,4wd,full-size,SUV,black,wi
+42996,2015,mercedes-benz,sprinter passenger vans,excellent,6,diesel,37724,clean,automatic,rwd,full-size,van,grey,wi
+43000,2011,bmw,m3 sedan,excellent,8,gas,58000,clean,manual,rwd,mid-size,sedan,black,wi
+43755,2017,gmc,sierra 1500,excellent,8,gas,43589,clean,automatic,4wd,mid-size,truck,silver,wi
+44377,2014,ford,e-450,excellent,10,gas,32937,rebuilt,automatic,rwd,full-size,bus,grey,wi
+44377,2014,ford,e-450,excellent,10,gas,32937,rebuilt,automatic,rwd,full-size,bus,grey,wi
+44381,2014,ford,e-450,excellent,10,gas,32937,rebuilt,automatic,rwd,full-size,bus,grey,wi
+44850,2015,ford,f-550,excellent,8,diesel,34838,rebuilt,automatic,4wd,full-size,truck,red,wi
+44850,2015,ford,f-550,excellent,8,diesel,34838,rebuilt,automatic,4wd,full-size,truck,red,wi
+44950,2008,cadillac,excalade ext,like new,8,gas,22000,clean,automatic,4wd,full-size,truck,black,wi
+44995,2016,ram,4500,excellent,8,gas,37992,clean,automatic,rwd,full-size,truck,white,wi
+44995,2016,ram,4500,excellent,8,gas,37992,clean,automatic,rwd,full-size,truck,white,wi
+44999,2014,ford,f-250 super duty,excellent,8,diesel,63000,clean,automatic,4wd,full-size,truck,red,wi
+46900,2016,mercedes-benz,s-class,excellent,8,gas,45532,clean,automatic,4wd,full-size,sedan,white,wi
+47995,2019,chevrolet,silverado 3500hd,excellent,8,diesel,147521,clean,automatic,4wd,full-size,pickup,blue,wi
+48896,2017,cadillac,escalade esv,excellent,8,gas,36286,clean,automatic,4wd,full-size,SUV,black,wi
+48896,2017,cadillac,escalade esv,excellent,8,gas,36286,clean,automatic,4wd,full-size,SUV,black,wi
+49675,2017,ram,2500 laramie,excellent,6,diesel,60000,clean,automatic,4wd,full-size,truck,red,wi
+49821,2020,chevrolet,4500 lcf gas,new,8,gas,245,clean,automatic,rwd,full-size,truck,white,wi
+49990,2014,ford,super duty f-550 drw,good,8,diesel,39253,clean,automatic,4wd,full-size,truck,white,wi
+50500,2019,ford,f150 raptor,like new,6,gas,25700,clean,automatic,4wd,full-size,truck,black,wi
+50808,2020,chevrolet,tahoe,excellent,8,gas,21962,clean,automatic,4wd,full-size,SUV,black,wi
+52000,2015,chevrolet,camaro,excellent,8,gas,12500,lien,manual,rwd,mid-size,coupe,black,wi
+52990,2016,ram,5500,good,6,diesel,36285,clean,automatic,4wd,full-size,truck,black,wi
+52990,2016,ram,5500,good,6,diesel,36285,clean,automatic,4wd,full-size,truck,black,wi
+58250,2018,bmw,750i,good,8,gas,32075,clean,automatic,rwd,full-size,sedan,blue,wi
+59980,2018,mercedes-benz,gls,excellent,8,gas,19315,clean,automatic,4wd,full-size,SUV,grey,wi
+59999,2018,gmc,sierra,like new,8,diesel,16387,clean,automatic,4wd,full-size,truck,black,wi
+60490,2018,mercedes-benz,gls,excellent,8,gas,15428,clean,automatic,4wd,full-size,SUV,blue,wi
+61990,2018,mercedes-benz,gls,excellent,8,gas,19315,clean,automatic,4wd,full-size,SUV,grey,wi
+64995,2018,chevrolet,silverado 3500hd ltz,excellent,8,diesel,17500,clean,automatic,4wd,full-size,pickup,white,wi
