@@ -1,3 +1,33 @@
+title: "Final Project"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r data-load}
+library(tidyr)
+library(readr)
+library(tidyverse)  # data manipulation and visualization
+library(modelr)     # provides easy pipeline modeling functions
+library(broom)      # helps to tidy up model outputs
+library(PerformanceAnalytics)
+library(Hmisc)
+library(ggplot2)
+library(magrittr)
+main_dataset <- read_csv("Dataset_For_Wisconsin.csv")
+main_dataset %>% drop_na()
+```
+
+
+
+## Histogram and Summaries
+
+```{r pressure, echo=FALSE}
+# Getting the column price and assigning in the variable named price
+price <- main_dataset$price
+
 # Hotel Database Analysis Project for DSC341
 ## In this project I created a Hotel Database
 
