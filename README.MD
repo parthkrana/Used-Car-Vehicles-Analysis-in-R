@@ -1,4 +1,4 @@
-# Used Car Vehicles Analysis Project for DSC341
+# Used Car Vehicles Analysis Project in R for DSC341 -- 
 
 #### Summary
 
