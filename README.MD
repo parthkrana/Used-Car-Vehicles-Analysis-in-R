@@ -20,13 +20,16 @@ Our histogram of price and odometer are skewed to the left, while the histogram 
 
 #### Histogram #1 
 Our histogram for price told us that the min value of cars sold in Wisconsin was 0, the max was $109,995, and the average of all cars sold was $13,543. 
+![h1](https://i.ibb.co/5K9QxsN/Screen-Shot-2021-08-19-at-3-09-25-PM.png)
 
 #### Histogram #2
 Our histogram for odometer told us the minimum value for odometer was 0 miles, the maximum was 1500000, and the mean was 112469 miles. 
+<img>
 
 #### Histogram #3
 The histogram for year told us that the oldest car sold in Wisconsin in this dataset was a 1954 model year and the newest car was a 2021 model year. Also informed us that most of the cars sold in Wisconsin were from the 2010 model year.
 </p>
+<img>
 
 ## Conclusion
 In conclusion, building these models helped us predict the price of used cars sold in Wisconsin. Using variables such as year and odometer we were able to predict the price that these cars would sell for. 
