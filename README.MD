@@ -24,7 +24,7 @@ Our histogram for price told us that the min value of cars sold in Wisconsin was
 
 #### Histogram #2
 Our histogram for odometer told us the minimum value for odometer was 0 miles, the maximum was 1500000, and the mean was 112469 miles. 
-![h2](https://i.ibb.co/19Nqhkp/Screen-Shot-2021-08-21-at-12-42-58-PM.png)
+![h2](https://i.ibb.co/D7FCsZ6/Screen-Shot-2021-08-21-at-12-42-58-PM.png)
 
 
 #### Histogram #3
