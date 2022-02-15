@@ -11,7 +11,7 @@ The dataset that we manipulated throughout this quarter contained information on
 
 #### Learning Outcomes
 <p>
-Utilizing R Studio, we were able to find the influential points, or the outliers that greatly affected the slope, of the dataset. We removed 2,523 rows that contained non finite values by creating scatterplots. 87 outliers were also removed due to missing values that were significant to the models that we were creating. (add details about what was removed)
+Utilizing R Studio, we were able to find the influential points, or the outliers that greatly affected the slope, of the dataset. We removed 2,523 rows that contained non finite values by creating scatterplots. 87 outliers were also removed due to missing values that were significant to the models that we were creating. 
 We created three histograms using the dataset to better understand the degree of variation and to show the distribution pattern. The histograms created were for price, odometer, and year. 
 
 ### <b>Details of the Three Histograms: </b>
