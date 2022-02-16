@@ -26,9 +26,7 @@ Using R Studio, I was able to create a model that made it easier for us to calcu
 <p>
 For our Exploratory analysis stage, I started off by creating a few histograms for some of our variables in the dataset(not all), I then followed that by narrowing it down to the variables that I planned on using in our model, which I agreed upon price, odometer, and year. The reasoning behind selecting these variables is as follows, price gives us what a value as to what the car was sold for, this will be our response variables. While the odometer and year variable give us something to use as explanatory variables. I started our explanatory analysis by creating histograms for all the selected variables.
 
-### <b>Details of the Three Histograms: </b>
-
-Our histogram of price and odometer are skewed to the left, while the histogram of year is skewed to the right. 
+### <b>Details of the Three Histograms: </b> 
 
 #### Histogram #1 
 
