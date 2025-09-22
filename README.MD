@@ -2,11 +2,11 @@
 
 ## Summary
 
-This project  done in DSC341 at DePaul University prepared me how to use a number of foundational R concepts, as outlined below:
+This project prepared me how to use a number of foundational R concepts, as outlined below:
 
 #### Data Cleaning
 <p>
-The dataset that I manipulated throughout this quarter contained information on cars sold in America. After further analyzing the many variables that were present, I decided to contain the data significantly by only assessing the value of used cars sold in the state of Wisconsin. All variables that were insignificant to finding car values were removed to determine the price at which the car was citympg, hwympg, weight, horsepower, rpm, fuel capacity, year, make, model, color, condition, engine type, fuel type, mileage, title status, transmission type, drivetrain, passenger capacity, airbag capacity as well as the type of car sold. In the works of finding more continuous variables and replacing them with discrete variables. Can also turn discrete variables into continuous by implementing a function like One-hot encoding. By creating a binary column for each category level and returning a sparse matrix.
+The dataset that I manipulatedcontained information on cars sold in America. After further analyzing the many variables that were present, I decided to contain the data significantly by only assessing the value of used cars sold in the state of Wisconsin. All variables that were insignificant to finding car values were removed to determine the price at which the car was citympg, hwympg, weight, horsepower, rpm, fuel capacity, year, make, model, color, condition, engine type, fuel type, mileage, title status, transmission type, drivetrain, passenger capacity, airbag capacity as well as the type of car sold. In the works of finding more continuous variables and replacing them with discrete variables. Can also turn discrete variables into continuous by implementing a function like One-hot encoding. By creating a binary column for each category level and returning a sparse matrix.
 
 </p>
 
